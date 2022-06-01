@@ -78,7 +78,12 @@
 |      目上      |        superior         |
 |      目下      |        inferior         |
 |      目次      |    table of contents    |
-
+|      出産      |          birth          |
+|    おもちゃ    |           toy           |
+|   マグカップ   |           mug           |
+|      就職      |    looking for work     |
+|     ひこし     |    a move (location)    |
+|   ひこし祝い   |      housewarming       |
 
 ## イ-adjectives
 
