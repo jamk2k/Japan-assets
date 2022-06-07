@@ -232,7 +232,7 @@ Used to express that `V2` happened before `V1`.
 
 > V-ると いいです(よ)
 
-`と いいです` can be used to make light suggestions. Often `よ` is used at the end of such a sentence.
+`と いいです` can be used to make light suggestions. Often `よ` is used at the end of such a sentence to add emphasis.
 
 * 毎日コンピューターで仕事して、肩が痛いです。肩をゆっくり回すといいですよ。
 * 最近、目が疲れています。ブルーベリーを食べるといいですよ。
@@ -253,7 +253,7 @@ Used when warning or advising someone not to do something.
 > V1た 後で、V2  
 > Nの 後で、V2
 
-Used when talking about doing `V2` after `V1`/`N`.
+Used when talking about doing `V2` after `V1` / `N`.
 
 * 山田さんは日本に帰った後で、病気に成りました。
 * 私は授業の後で、図書館に行きました。
@@ -265,7 +265,7 @@ Used when talking about doing `V2` after `V1`/`N`.
 
 > 〜たり、〜たり します。
 
-This form is to non-exhaustively enumerate actions. It's like `や` but for actions. You can also use only one action, there don't have to be multiple. The `たり` form is create by adding `り` to the _た-form_. You can also use `〜たりしています` to express you're doing something regularly.
+This form non-exhaustively enumerates actions. It's like `や` but for actions. You can also use only one action, there don't have to be multiple. The `たり` form is created by adding `り` to the _た-form_. You can also use `〜たりしています` to express you're doing something regularly.
 
 * 運動のために、ヨガをしたりトレーニングをしたりしています。
 * 歩いたりしています。
@@ -273,7 +273,7 @@ This form is to non-exhaustively enumerate actions. It's like `や` but for acti
 
 ### **Describing people**
 
-> S substantive
+> S + substantive
 
 The sentence before the substantive should be _informal_. This can be used to describe people.
 
@@ -309,7 +309,7 @@ In this case you're saying `It's better to`, this is much stronger advice than `
 
 When using a _な-adjective_ or _substantive_, the `だ` becomes `な`.
 
-* その時計、素敵ですね。ありがとう御座います。母にももらったんです。
+* その時計、素敵ですね。ありがとう御座います。母にもらったんです。
 * どうしたんですか。
 * 少し頭が痛いんです。
 * 誕生日のプレセントなんです。
@@ -320,7 +320,7 @@ When using a _な-adjective_ or _substantive_, the `だ` becomes `な`.
 
 `S` describes the substantive. `S` should be _informal_.
 
-* 結婚おお祝いに料理の時使うものをあげます。
+* 結婚のお祝いに料理の時使うものをあげます。
 * 出産のお祝いにどんなものをもらいましたか。
 * 赤ちゃんが遊ぶものをもらいました。
   * You know that `赤ちゃん` and `遊ぶ` form a pair because dependent clauses can never use `は`. This sentence thus means `I got things for the baby to play with`, not `The baby got things that it can play with`.
@@ -329,7 +329,7 @@ When using a _な-adjective_ or _substantive_, the `だ` becomes `な`.
 
 > S・Sub・い-adj・な-adj でしょう
 
-This sentence pattern describes a high likelihood of the preceding sentence or a confirmation of it (_isn't it?_, similar to `ですね`). The sentence before the `でしょう` should be _informal_. In conversation you'll often hear `ですよ` or `でしょ`.
+This sentence pattern describes a high likelihood of the preceding sentence or a confirmation of it (`isn't it?`, similar to `ですね`). The sentence before the `でしょう` should be _informal_. In conversation you'll often hear `ですよ` or `でしょ`.
 
 * 明日は雨が降るでしょう。
 * 猫が可愛いでしょう。
@@ -342,15 +342,15 @@ This sentence pattern describes a high likelihood of the preceding sentence or a
 
 > S と 思います
 
-You think that `S`. `S` should be informal.
+You’re thinking of something (`S`). `S` should be _informal_.
 
 > S と 思っていま
 
-Someone else thinks `S`. `S` should be informal.
+Someone else thinks `S`. `S` should be _informal_.
 
 > S とは 思います
 
-When you don't think something, an additional `は` is added after the ｀と`.
+When you don't think something, an additional `は` is added after the `と`.
 
 * 秋川さんは花が好きだと思います。
 * 高橋さんは英語が上手じゃないと思います。
@@ -361,7 +361,7 @@ When you don't think something, an additional `は` is added after the ｀と`.
 
 > S と 言っていました
 
-You're saying something (`S`) someone said. `S` should be formal.
+You're saying something (`S`) someone said. `S` should be _informal_.
 
 > 「S」 と 言っていました
 
@@ -372,14 +372,14 @@ When quoting other people, you use `言っていました`, when you're quoting 
 * 秋川さんはお酒が好きだと言っていました。。
 * 秋川さんは「お酒が好きです」と言っていました。
 * プレゼントはとても気に入ったと言っていました。
-* いいえだといました。
+* いいえだと言ました。
 
 ### **Adjectives to adverbs**
 
 > |              | adjective | adverb | sentence   |
 > |--------------|-----------|--------|------------|
-> | な-adjective | 早い      | 早く   | 早く起きる |
-> | い-adjective | 綺麗な    | 綺麗に | 綺麗に書く |
+> | い-adjective | 早い      | 早く   | 早く起きる |
+> | な-adjective | 綺麗な    | 綺麗に | 綺麗に書く |
 
 * 値段が高く成りました。
 * 私は有名に成りたいです。
@@ -388,9 +388,9 @@ When quoting other people, you use `言っていました`, when you're quoting 
 
 > S1 ので S2
 
-`S1` is an _informal_ sentence which is the reason for the _situation_ described in `S2`.
+`S1` is an _informal_ sentence which is the reason for the _situation_ described in `S2`. `ので` is slightly more formal than `から`.
 
-For _substantives_ and _な-adjectives_ the だ transforms into な
+For _substantives_ and _な-adjectives_ the だ transforms into な.
 
 * 両親が日本に来るので、休みを聞きたいです。
 * 熱があったので、学生を休みました。
