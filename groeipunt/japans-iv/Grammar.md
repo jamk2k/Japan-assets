@@ -1,29 +1,48 @@
 # Grammar
 
-## Chapter 12
+<!-- TOC -->
 
 - [Grammar](#grammar)
 	- [Chapter 12](#chapter-12)
 		- [**Looks like it is -y**](#looks-like-it-is--y)
-		- [**Reason/cause through て-form**](#reasoncause-through-て-form)
+		- [**Reason/cause through て-form**](#reasoncause-through-%E3%81%A6-form)
 		- [**Comparing - better of two**](#comparing---better-of-two)
 		- [**Comparing - not as**](#comparing---not-as)
 		- [**Comparing - best of list**](#comparing---best-of-list)
 	- [Chapter 13](#chapter-13)
 		- [**Having experienced something**](#having-experienced-something)
 		- [**Too much**](#too-much)
-		- [**Contrast using が**](#contrast-using-が)
-		- [**もう・まだ**](#もうまだ)
+		- [**Contrast using が**](#contrast-using-%E3%81%8C)
+		- [**もう・まだ**](#%E3%82%82%E3%81%86%E3%83%BB%E3%81%BE%E3%81%A0)
 	- [Chapter 14](#chapter-14)
 		- [**Expressing passed time**](#expressing-passed-time)
 		- [**Asking permission**](#asking-permission)
-		- [**Informal negative form (ない)**](#informal-negative-form-ない)
+		- [**Informal negative form ない**](#informal-negative-form-%E3%81%AA%E3%81%84)
 		- [**Have to**](#have-to)
 	- [Chapter 15](#chapter-15)
 		- [**Expressing precedence**](#expressing-precedence)
 		- [**Light suggestion**](#light-suggestion)
 		- [**Please don't**](#please-dont)
 		- [**A after B**](#a-after-b)
+	- [Chapter 16](#chapter-16)
+		- [**Enumerating actions**](#enumerating-actions)
+		- [**Describing people**](#describing-people)
+		- [**Giving strong advice**](#giving-strong-advice)
+	- [Chapter 17](#chapter-17)
+		- [**Explaining situations**](#explaining-situations)
+		- [**Dependent clauses to describe substantives**](#dependent-clauses-to-describe-substantives)
+		- [**でしょう**](#%E3%81%A7%E3%81%97%E3%82%87%E3%81%86)
+	- [Chapter 18](#chapter-18)
+		- [**と 思います**](#%E3%81%A8-%E6%80%9D%E3%81%84%E3%81%BE%E3%81%99)
+		- [**と 言っていました**](#%E3%81%A8-%E8%A8%80%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F)
+		- [**Adjectives to adverbs**](#adjectives-to-adverbs)
+		- [**Formal because**](#formal-because)
+		- [**Informal や**](#informal-%E3%82%84)
+		- [**Hard/easy to 〜**](#hardeasy-to-%E3%80%9C)
+
+<!-- /TOC -->
+
+## Chapter 12
 
 ### **Looks like it is -y**
 
@@ -213,7 +232,7 @@ Used to express that `V2` happened before `V1`.
 
 > V-ると いいです(よ)
 
-`と いいです` can be used to make light suggestions. Often `よ` is used at the end of such a sentence.
+`と いいです` can be used to make light suggestions. Often `よ` is used at the end of such a sentence to add emphasis.
 
 * 毎日コンピューターで仕事して、肩が痛いです。肩をゆっくり回すといいですよ。
 * 最近、目が疲れています。ブルーベリーを食べるといいですよ。
@@ -234,8 +253,168 @@ Used when warning or advising someone not to do something.
 > V1た 後で、V2  
 > Nの 後で、V2
 
-Used when talking about doing `V2` after `V1`/`N`.
+Used when talking about doing `V2` after `V1` / `N`.
 
 * 山田さんは日本に帰った後で、病気に成りました。
 * 私は授業の後で、図書館に行きました。
 * 勉強した後で、食べます。
+
+## Chapter 16
+
+### **Enumerating actions**
+
+> 〜たり、〜たり します。
+
+This form non-exhaustively enumerates actions. It's like `や` but for actions. You can also use only one action, there don't have to be multiple. The `たり` form is created by adding `り` to the _た-form_. You can also use `〜たりしています` to express you're doing something regularly.
+
+* 運動のために、ヨガをしたりトレーニングをしたりしています。
+* 歩いたりしています。
+* 食べたり飲んだりします。
+
+### **Describing people**
+
+> S + substantive
+
+The sentence before the substantive should be _informal_. This can be used to describe people.
+
+* よくお酒を飲む人は10人です。飲まない人は5人です。
+* 毎日スポーツをする人は10人です。
+* 初めてトレーニングする人は、トレーナーに聞いてください。
+
+> S て いる人です
+
+You can also describe people by what they're doing.
+
+* メガネをかけている人です。
+* 寝っている人です。
+* ギータを引いている人です。
+
+### **Giving strong advice**
+
+> 動詞た・動詞ない 方がいいです。
+
+In this case you're saying `It's better to`, this is much stronger advice than `といいです`. The verb should always use the informal past or negative form.
+
+* 走る前に体操した方がいいです。
+* 無理をしない方がいいです。
+* 病気の時、薬を飲んだ方がいいです。
+
+## Chapter 17
+
+### **Explaining situations**
+
+> S・Sub・い-adj・な-adj んです。
+
+`んです` is used to explain a situation or circumstance. The sentence before `んです` should be _informal_.
+
+When using a _な-adjective_ or _substantive_, the `だ` becomes `な`.
+
+* その時計、素敵ですね。ありがとう御座います。母にもらったんです。
+* どうしたんですか。
+* 少し頭が痛いんです。
+* 誕生日のプレセントなんです。
+
+### **Dependent clauses to describe substantives**
+
+> S + substantive
+
+`S` describes the substantive. `S` should be _informal_.
+
+* 結婚のお祝いに料理の時使うものをあげます。
+* 出産のお祝いにどんなものをもらいましたか。
+* 赤ちゃんが遊ぶものをもらいました。
+  * You know that `赤ちゃん` and `遊ぶ` form a pair because dependent clauses can never use `は`. This sentence thus means `I got things for the baby to play with`, not `The baby got things that it can play with`.
+
+### **でしょう**
+
+> S・Sub・い-adj・な-adj でしょう
+
+This sentence pattern describes a high likelihood of the preceding sentence or a confirmation of it (`isn't it?`, similar to `ですね`). The sentence before the `でしょう` should be _informal_. In conversation you'll often hear `ですよ` or `でしょ`.
+
+* 明日は雨が降るでしょう。
+* 猫が可愛いでしょう。
+* 銀行でしょう。
+* 花が綺麗でしょう。
+
+## Chapter 18
+
+### **と 思います**
+
+> S と 思います
+
+You’re thinking of something (`S`). `S` should be _informal_.
+
+> S と 思っていま
+
+Someone else thinks `S`. `S` should be _informal_.
+
+> S とは 思います
+
+When you don't think something, an additional `は` is added after the `と`.
+
+* 秋川さんは花が好きだと思います。
+* 高橋さんは英語が上手じゃないと思います。
+* 田中さんは、スミスさんが来ると思っています。
+* スミスさんが東京に行くとはと思いません。
+
+### **と 言っていました**
+
+> S と 言っていました
+
+You're saying something (`S`) someone said. `S` should be _informal_.
+
+> 「S」 と 言っていました
+
+You're quoting something someone said. `S` can be both formal and informal.
+
+When quoting other people, you use `言っていました`, when you're quoting yourself, you use `言います`.
+
+* 秋川さんはお酒が好きだと言っていました。。
+* 秋川さんは「お酒が好きです」と言っていました。
+* プレゼントはとても気に入ったと言っていました。
+* いいえだと言ました。
+
+### **Adjectives to adverbs**
+
+> |              | adjective | adverb | sentence   |
+> |--------------|-----------|--------|------------|
+> | い-adjective | 早い      | 早く   | 早く起きる |
+> | な-adjective | 綺麗な    | 綺麗に | 綺麗に書く |
+
+* 値段が高く成りました。
+* 私は有名に成りたいです。
+
+### **Formal `because`**
+
+> S1 ので S2
+
+`S1` is an _informal_ sentence which is the reason for the _situation_ described in `S2`. `ので` is slightly more formal than `から`.
+
+For _substantives_ and _な-adjectives_ the だ transforms into な.
+
+* 両親が日本に来るので、休みを聞きたいです。
+* 熱があったので、学生を休みました。
+* 音楽が好きなので、よくコンサートに行きます。
+* 今日な日曜日なので、銀行は休みです。
+* いい天気だったので、散歩に行きました。
+* 頭が痛いので、少し休んでもいいですか。
+
+### **Informal や**
+
+> A とか B とか
+
+Non-exhaustively enumerates items informally.
+
+* お寿司とか天ぷらとかが出ます。
+* やるとかやらないとかは後から決めて下さい。
+* 肉が好きです。豚肉とか鶏肉とか好きです。
+
+### **Hard/easy to 〜**
+
+> 動詞 憎い・安い
+
+Used to express something is hard or easy to do. Can only be used with the `憎い` and `安い` adjectives. The verb should be in the `masu form`.
+
+* 言いにくい。
+* 食べにくい。
+* 食べやすい。
