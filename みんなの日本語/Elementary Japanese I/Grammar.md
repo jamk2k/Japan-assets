@@ -24,6 +24,41 @@
     - [**N1のN2**](#n1のn2-2)
     - [**The こ・そ・あ・ど system of demonstratives**](#the-こそあど-system-of-demonstratives)
     - [**お～**](#お-1)
+  - [Chapter 4](#chapter-4)
+    - [今 X時 Y分 です](#今-x時-y分-です)
+    - [V ます・V ません・V ました・Vませんでした](#v-ますv-ませんv-ましたvませんでした)
+    - [N (time) に V](#n-time-に-v)
+    - [N1 から N2 まで](#n1-から-n2-まで)
+    - [N1 と N2](#n1-と-n2)
+    - [～ね](#ね)
+  - [Chapter 5](#chapter-5)
+    - [N (place) へ 行きます・来ます・帰ります](#n-place-へ-行きます来ます帰ります)
+    - [どこ[へ]も 行きません・行きませんでした](#どこへも-行きません行きませんでした)
+    - [N (vehicle) で行きます・来ます・帰ります](#n-vehicle-で行きます来ます帰ります)
+    - [N (person/animal) と V](#n-personanimal-と-v)
+    - [いつ](#いつ)
+    - [～よ](#よ)
+    - [そうですね](#そうですね)
+  - [Chapter 6](#chapter-6)
+  - [Chapter 7](#chapter-7)
+  - [Chapter 8](#chapter-8)
+  - [Chapter 9](#chapter-9)
+  - [Chapter 10](#chapter-10)
+  - [Chapter 11](#chapter-11)
+  - [Chapter 12](#chapter-12)
+  - [Chapter 13](#chapter-13)
+  - [Chapter 14](#chapter-14)
+  - [Chapter 15](#chapter-15)
+  - [Chapter 16](#chapter-16)
+  - [Chapter 17](#chapter-17)
+  - [Chapter 18](#chapter-18)
+  - [Chapter 19](#chapter-19)
+  - [Chapter 20](#chapter-20)
+  - [Chapter 21](#chapter-21)
+  - [Chapter 22](#chapter-22)
+  - [Chapter 23](#chapter-23)
+  - [Chapter 24](#chapter-24)
+  - [Chapter 25](#chapter-25)
 
 ## Chapter 1
 
@@ -215,3 +250,144 @@ States in what `place` `N` is.
 `お` is used as prefix for things related to the listener or a third party in order to show respect towards that person.
 
 * お国はどちらですか。
+
+## Chapter 4
+
+### 今 X時 Y分 です
+
+As seen in Het Perspectief. `分` is read as `ふん` for 2, 5, 7, or 9 and `ぷん` for the others. 1, 6, 8, and 10 become `いっぷん`, `ろっぷん`, `はっぷん`, `じゅっぷん`. To ask the time use `今何時ですか。`.
+
+### V ます・V ません・V ました・Vませんでした
+
+As seen in Het Perspectief. `ます` shows politeness towards the listener. `か` is used to ask questions. `そうです` and `違います` can not be used to answer `V ます` questions. The verb has to be repeated in the answer.
+
+* 何時に起きますか。
+  * 六時に起きます。
+
+### N (time) に V
+
+Used to indicated time of occurrence of an action. With `曜日`, `朝`, `昼`, `晩`, `夜`, `に` is optional.
+
+* 六時半に起きます。
+  * 日曜日(に)奈良へ行きます。
+
+### N1 から N2 まで
+
+`から` indicates a start time or location. `まで` indicates a finishing time or location.
+
+* 九時から五時まで勉強します。
+
+They don't have to be used together.
+
+* 九時から働きます。
+
+To indicate the start or finishing time of a noun introduced as the topic, `です` can be attached to the end.
+
+* 昼休みは十二時からです。
+
+### N1 と N2
+
+`と` connects two nouns together
+
+* 銀行の休みは土曜日と日曜日です。
+
+### ～ね
+
+The particle `ね` is attached to the end of a sentence to illicit agreement from the listener (`, right?` in english).
+
+* 九時に来ます。九時ですね。
+
+## Chapter 5
+
+### N (place) へ 行きます・来ます・帰ります
+
+`へ` is placed after the place where we're moving to. Compared to `に`, `へ` puts more emphasis on the location. It translates more as `towards` while `に` would be `to`.
+
+* 京都へ行きます。
+
+### どこ[へ]も 行きません・行きませんでした
+
+When you want to deny everything in a question you use `も` + the negative form of the verb.
+
+* どこもに行きません。
+* 何も食べませんでした。
+* 誰も来ませんでした。
+
+### N (vehicle) で行きます・来ます・帰ります
+
+`で` indicates a means or method.
+
+* 電車で行きます。
+
+For walking we use `あるいて` instead.
+
+* 駅から歩いて帰りました。
+
+### N (person/animal) と V
+
+When doing something with a person or animal, you use `と`.
+
+* 家族と日本へ来ました。
+
+When you do something by yourself you use `ひとりで`.
+
+* 一人で東京へ行きます。
+
+### いつ
+
+`いつ` is used to ask when something will happen. You can't use `に` with it.
+
+* いつ広島へ行きますか。
+
+### ～よ
+
+The particle `よ` at the end of a sentence emphasizes **new information** to the listener, shows that you're **giving judgement** or are being **assertive**.
+
+* 北海道に馬がたくさんにいます。
+
+### そうですね
+
+Can be used to express sympathy or agreement. `そうですか` is used when the information is new, `そうですね` is used when the information was already known.
+
+* 明日は日曜日ですね。
+  * あ、そうですね。
+
+## Chapter 6
+
+## Chapter 7
+
+## Chapter 8
+
+## Chapter 9
+
+## Chapter 10
+
+## Chapter 11
+
+## Chapter 12
+
+## Chapter 13
+
+## Chapter 14
+
+## Chapter 15
+
+## Chapter 16
+
+## Chapter 17
+
+## Chapter 18
+
+## Chapter 19
+
+## Chapter 20
+
+## Chapter 21
+
+## Chapter 22
+
+## Chapter 23
+
+## Chapter 24
+
+## Chapter 25
