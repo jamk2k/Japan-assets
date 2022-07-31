@@ -40,25 +40,133 @@
     - [～よ](#よ)
     - [そうですね](#そうですね)
   - [Chapter 6](#chapter-6)
+    - [Nを V(transitive)](#nを-vtransitive)
+    - [Nを します](#nを-します)
+    - [何をしますか](#何をしますか)
+    - [なん and なに](#なん-and-なに)
+    - [N(place)で V](#nplaceで-v)
+    - [Vませんか](#vませんか)
+    - [Vましょう](#vましょう)
+    - [～か](#か)
   - [Chapter 7](#chapter-7)
+    - [N(tool/means)で V](#ntoolmeansで-v)
+    - [(Word・sentence)は ～語で 何ですか](#wordsentenceは-語で-何ですか)
+    - [N1(person)に N2を あげます](#n1personに-n2を-あげます)
+    - [N1(person)に N2を もらいます](#n1personに-n2を-もらいます)
+    - [もうV ました](#もうv-ました)
+    - [Omission of particles](#omission-of-particles)
   - [Chapter 8](#chapter-8)
+    - [Adjectives](#adjectives)
+    - [Nは なadj です・Nは いadj です](#nは-なadj-ですnは-いadj-です)
+    - [なadj N・いadj N](#なadj-nいadj-n)
+    - [～が、～](#が)
+    - [とても・あまり](#とてもあまり)
+    - [Nは どうですか](#nは-どうですか)
+    - [N1は どんなN2 ですか](#n1は-どんなn2-ですか)
+    - [そうですね](#そうですね-1)
   - [Chapter 9](#chapter-9)
+    - [Nが (あります・わかります)・Nが (好きです・嫌いです・上手です・下手です)](#nが-ありますわかりますnが-好きです嫌いです上手です下手です)
+    - [どんな N](#どんな-n)
+    - [よく・タイダイ・だくさん・少し・甘利・全然](#よくタイダイだくさん少し甘利全然)
+    - [～から、～](#から)
+    - [どうして](#どうして)
   - [Chapter 10](#chapter-10)
+    - [Nが あります・います](#nが-ありますいます)
+    - [Placeに Nが あります・います](#placeに-nが-ありますいます)
+    - [Nは placeに あります・います](#nは-placeに-ありますいます)
+    - [N1(thing・person・place)の N2(position)](#n1thingpersonplaceの-n2position)
+    - [N1や N2](#n1や-n2)
+    - [アジアストアですか](#アジアストアですか)
   - [Chapter 11](#chapter-11)
+    - [How to say numbers](#how-to-say-numbers)
+    - [How to use quantifiers](#how-to-use-quantifiers)
+    - [Time period quantifier に 一回 V](#time-period-quantifier-に-一回-v)
+    - [Quantifier (だけ・Nだけ)](#quantifier-だけnだけ)
   - [Chapter 12](#chapter-12)
+    - [Tense and affirmative/negative forms of な-adj sentences](#tense-and-affirmativenegative-forms-of-な-adj-sentences)
+    - [Tense and affirmative/negative forms of い-adj sentences](#tense-and-affirmativenegative-forms-of-い-adj-sentences)
+    - [N1は N2より adjです](#n1は-n2より-adjです)
+    - [N1と N2と どちらが adjですか N1・N2のほうが です](#n1と-n2と-どちらが-adjですか-n1n2のほうが-です)
+    - [N1 [の中]で (なに・どこ・だれ・いつ)が いちばん adjですか](#n1-の中で-なにどこだれいつが-いちばん-adjですか)
+    - [Adjの (の substituting for a noun)](#adjの-の-substituting-for-a-noun)
   - [Chapter 13](#chapter-13)
+    - [Nが 欲しいです](#nが-欲しいです)
+    - [Vますたいです](#vますたいです)
+    - [N(place)へ (Vます・N)に 行きます・来ます・帰ります](#nplaceへ-vますnに-行きます来ます帰ります)
+    - [どこか・何か](#どこか何か)
+    - [ご～](#ご)
   - [Chapter 14](#chapter-14)
+    - [Verb groups](#verb-groups)
+    - [V て-form](#v-て-form)
+    - [Vて ください](#vて-ください)
+    - [Vて います](#vて-います)
+    - [Vます ましょうか](#vます-ましょうか)
+    - [Nが V](#nが-v)
+    - [すみませんが](#すみませんが)
   - [Chapter 15](#chapter-15)
+    - [Vても いいですか](#vても-いいですか)
+    - [Vては いけません](#vては-いけません)
+    - [Vて います](#vて-います-1)
+    - [Nに V](#nに-v)
+    - [N1に N2を V](#n1に-n2を-v)
   - [Chapter 16](#chapter-16)
+    - [How to join >= two sentences together](#how-to-join--two-sentences-together)
+    - [V1て から、V2](#v1て-からv2)
+    - [N1は N2が adj](#n1は-n2が-adj)
+    - [Nを V](#nを-v)
+    - [どうやって](#どうやって)
+    - [どれ・どの N](#どれどの-n)
   - [Chapter 17](#chapter-17)
+    - [V ない-form](#v-ない-form)
+    - [Vない ないで ください](#vない-ないで-ください)
+    - [Vない なければ なりません](#vない-なければ-なりません)
+    - [Vない なくても いいです](#vない-なくても-いいです)
+    - [Making an object the topic of a sentence](#making-an-object-the-topic-of-a-sentence)
+    - [N(time) までに V](#ntime-までに-v)
   - [Chapter 18](#chapter-18)
+    - [Dictionary form of verbs](#dictionary-form-of-verbs)
+    - [(N・V-dictこと)が できます](#nv-dictことが-できます)
+    - [私の趣味は (N・V-dictこと)です](#私の趣味は-nv-dictことです)
+    - [(V1-dict・Nの・time quantifier)前に、V2](#v1-dictnのtime-quantifier前にv2)
+    - [なかなか](#なかなか)
+    - [ぜひ](#ぜひ)
   - [Chapter 19](#chapter-19)
+    - [V た-form](#v-た-form)
+    - [Vたことが あります](#vたことが-あります)
+    - [V1たり、V2たり します](#v1たりv2たり-します)
+    - [(いadjく・なadjに・Nに) なります](#いadjくなadjにnに-なります)
   - [Chapter 20](#chapter-20)
+    - [Polite style and plain style](#polite-style-and-plain-style)
+    - [Proper use of the polite style or plain style](#proper-use-of-the-polite-style-or-plain-style)
+    - [Conversation in plain style](#conversation-in-plain-style)
   - [Chapter 21](#chapter-21)
+    - [plainと 思います](#plainと-思います)
+    - [(plain・sentence) と言います](#plainsentence-と言います)
+    - [(V・adj・N) plain でしょう？](#vadjn-plain-でしょう)
+    - [N1 (place)で N2が あります](#n1-placeで-n2が-あります)
+    - [N (occasion)で](#n-occasionで)
+    - [Nでも V](#nでも-v)
+    - [Vない と](#vない-と)
   - [Chapter 22](#chapter-22)
+    - [Noun modification](#noun-modification)
+    - [V-dict 時間・約束・幼児](#v-dict-時間約束幼児)
+    - [Vます ましょうか](#vます-ましょうか-1)
   - [Chapter 23](#chapter-23)
+    - [(V-dict・Vない・adj・Nの)とき、～ main clause](#v-dictvないadjnのとき-main-clause)
+    - [(V-dict・Vた) とき、～ main clause](#v-dictvた-とき-main-clause)
+    - [V-dict と、～ main clause](#v-dict-と-main-clause)
+    - [Nが adj](#nが-adj)
+    - [Nを motion V](#nを-motion-v)
   - [Chapter 24](#chapter-24)
+    - [くれます](#くれます)
+    - [Vて (あげます・もらいます・くれます)](#vて-あげますもらいますくれます)
+    - [N1は N2が V](#n1は-n2が-v)
   - [Chapter 25](#chapter-25)
+    - [Plain past form ら、～ main clause](#plain-past-form-ら-main-clause)
+    - [Vた ら、～ main clause](#vた-ら-main-clause)
+    - [(N・adj・て・ない) も、～](#nadjてない-も)
+    - [もし](#もし)
+    - [Subject of a subordinate clause](#subject-of-a-subordinate-clause)
 
 ## Chapter 1
 
@@ -354,40 +462,256 @@ Can be used to express sympathy or agreement. `そうですか` is used when the
 
 ## Chapter 6
 
+### Nを V(transitive)
+
+### Nを します
+
+### 何をしますか
+
+### なん and なに
+
+### N(place)で V
+
+### Vませんか
+
+### Vましょう
+
+### ～か
+
 ## Chapter 7
+
+### N(tool/means)で V
+
+### (Word・sentence)は ～語で 何ですか
+
+### N1(person)に N2を あげます
+
+### N1(person)に N2を もらいます
+
+### もうV ました
+
+### Omission of particles
 
 ## Chapter 8
 
+### Adjectives
+
+### Nは なadj です・Nは いadj です
+
+### なadj N・いadj N
+
+### ～が、～
+
+### とても・あまり
+
+### Nは どうですか
+
+### N1は どんなN2 ですか
+
+### そうですね
+
 ## Chapter 9
+
+### Nが (あります・わかります)・Nが (好きです・嫌いです・上手です・下手です)
+
+### どんな N
+
+### よく・タイダイ・だくさん・少し・甘利・全然
+
+### ～から、～
+
+### どうして
 
 ## Chapter 10
 
+### Nが あります・います
+
+### Placeに Nが あります・います
+
+### Nは placeに あります・います
+
+### N1(thing・person・place)の N2(position)
+
+### N1や N2
+
+### アジアストアですか
+
 ## Chapter 11
+
+### How to say numbers
+
+### How to use quantifiers
+
+### Time period quantifier に 一回 V
+
+### Quantifier (だけ・Nだけ)
 
 ## Chapter 12
 
+### Tense and affirmative/negative forms of な-adj sentences
+
+### Tense and affirmative/negative forms of い-adj sentences
+
+### N1は N2より adjです
+
+### N1と N2と どちらが adjですか N1・N2のほうが です
+
+### N1 [の中]で (なに・どこ・だれ・いつ)が いちばん adjですか
+
+### Adjの (の substituting for a noun)
+
 ## Chapter 13
+
+### Nが 欲しいです
+
+### Vますたいです
+
+### N(place)へ (Vます・N)に 行きます・来ます・帰ります
+
+### どこか・何か
+
+### ご～
 
 ## Chapter 14
 
+### Verb groups
+
+### V て-form
+
+### Vて ください
+
+### Vて います
+
+### Vます ましょうか
+
+### Nが V
+
+### すみませんが
+
 ## Chapter 15
+
+### Vても いいですか
+
+### Vては いけません
+
+### Vて います
+
+### Nに V
+
+### N1に N2を V
 
 ## Chapter 16
 
+### How to join >= two sentences together
+
+### V1て から、V2
+
+### N1は N2が adj
+
+### Nを V
+
+### どうやって
+
+### どれ・どの N
+
 ## Chapter 17
+
+### V ない-form
+
+### Vない ないで ください
+
+### Vない なければ なりません
+
+### Vない なくても いいです
+
+### Making an object the topic of a sentence
+
+### N(time) までに V
 
 ## Chapter 18
 
+### Dictionary form of verbs
+
+### (N・V-dictこと)が できます
+
+### 私の趣味は (N・V-dictこと)です
+
+### (V1-dict・Nの・time quantifier)前に、V2
+
+### なかなか
+
+### ぜひ
+
 ## Chapter 19
+
+### V た-form
+
+### Vたことが あります
+
+### V1たり、V2たり します
+
+### (いadjく・なadjに・Nに) なります
 
 ## Chapter 20
 
+### Polite style and plain style
+
+### Proper use of the polite style or plain style
+
+### Conversation in plain style
+
 ## Chapter 21
+
+### plainと 思います
+
+### (plain・sentence) と言います
+
+### (V・adj・N) plain でしょう？
+
+### N1 (place)で N2が あります
+
+### N (occasion)で
+
+### Nでも V
+
+### Vない と
 
 ## Chapter 22
 
+### Noun modification
+
+### V-dict 時間・約束・幼児
+
+### Vます ましょうか
+
 ## Chapter 23
+
+### (V-dict・Vない・adj・Nの)とき、～ main clause
+
+### (V-dict・Vた) とき、～ main clause
+
+### V-dict と、～ main clause
+
+### Nが adj
+
+### Nを motion V
 
 ## Chapter 24
 
+### くれます
+
+### Vて (あげます・もらいます・くれます)
+
+### N1は N2が V
+
 ## Chapter 25
+
+### Plain past form ら、～ main clause
+
+### Vた ら、～ main clause
+
+### (N・adj・て・ない) も、～
+
+### もし
+
+### Subject of a subordinate clause
