@@ -42,7 +42,7 @@
   - [Chapter 6](#chapter-6)
     - [Nを V(transitive)](#nを-vtransitive)
     - [Nを します](#nを-します)
-    - [何をしますか](#何をしますか)
+    - [何を しますか](#何を-しますか)
     - [なん and なに](#なん-and-なに)
     - [N(place)で V](#nplaceで-v)
     - [Vませんか](#vませんか)
@@ -51,14 +51,14 @@
   - [Chapter 7](#chapter-7)
     - [N(tool/means)で V](#ntoolmeansで-v)
     - [(Word・sentence)は ～語で 何ですか](#wordsentenceは-語で-何ですか)
-    - [N1(person)に N2を あげます](#n1personに-n2を-あげます)
-    - [N1(person)に N2を もらいます](#n1personに-n2を-もらいます)
-    - [もうV ました](#もうv-ました)
+    - [N1(person)に N2を あげます・貸します・教えます](#n1personに-n2を-あげます貸します教えます)
+    - [N1(person)に N2を もらいます・借ります・習います](#n1personに-n2を-もらいます借ります習います)
+    - [もう Vました](#もう-vました)
     - [Omission of particles](#omission-of-particles)
   - [Chapter 8](#chapter-8)
     - [Adjectives](#adjectives)
-    - [Nは なadj です・Nは いadj です](#nは-なadj-ですnは-いadj-です)
-    - [なadj N・いadj N](#なadj-nいadj-n)
+    - [Nは な-adj です・Nは い-adj です](#nは-な-adj-ですnは-い-adj-です)
+    - [な-adj N・い-adj N](#な-adj-nい-adj-n)
     - [～が、～](#が)
     - [とても・あまり](#とてもあまり)
     - [Nは どうですか](#nは-どうですか)
@@ -464,51 +464,185 @@ Can be used to express sympathy or agreement. `そうですか` is used when the
 
 ### Nを V(transitive)
 
+`を` is used to indicate the direct object `N` of a transitive verb `V`.
+
+* ジュースを飲みます。
+
 ### Nを します
 
-### 何をしますか
+Means that the noun `N` is being performed.
+
+* サッカーをします
+
+### 何を しますか
+
+Asks about someone's actions
+
+* 月曜日何をしますか。
 
 ### なん and なに
 
+`なん` and `なに` both mean `what`.
+
+`なん` is used in the cases below
+
+1. When it precedes a word starting with  a letter from the (た・だ・な)-row
+    * それは何**で**すか。
+    * 何**の**本ですか。
+2. When using it with a counter suffix
+    * テレーサは何歳ですか。
+
+`なに` is used in all other cases and also in `なにで` (= `how`).
+
+* 何を買いますか。
+* 何で東京へ行きますか。
+  * How are you getting to Tokyo?
+
 ### N(place)で V
+
+`で` denotes the occurrence of an action `V` at `N`.
+
+* 駅で新聞を買います。
 
 ### Vませんか
 
+> V-ますbase + ませんか
+
+Used to invite someone to do something (`V`). This is more considerate than `ましょうか`
+
+* 一緒に京都へ行きませんか。
+
 ### Vましょう
 
+> V-ますbase + ましょう
+
+Used to positively invite someone to do something (`V`).
+
+* ちょっと休みましょう。
+
+Or to respond positively to an invitation.
+
+* ええ、休みましょう。
+
 ### ～か
+
+`か` can be used to acknowledge that the listener has received new information as with `そうですか`.
+
+* 日曜日京都へ行きました。
+  * 京都か。いいですね。
 
 ## Chapter 7
 
 ### N(tool/means)で V
 
+`で` indicates a method or means `N` used for an action `V`.
+
+* 箸で食べます。
+* 日本語でレポートに書きます。
+
 ### (Word・sentence)は ～語で 何ですか
 
-### N1(person)に N2を あげます
+Used to ask how to say a word or sentence in another language.
 
-### N1(person)に N2を もらいます
+* 「ありがとう」は英語で何ですか。
+* 「Thank you」は日本語で何ですか。
 
-### もうV ました
+### N1(person)に N2を あげます・貸します・教えます
+
+Used to say that `N2` was imparted to `N1`.
+
+* (私は)木村さんに花を上げました。
+* イーさんに本を貸しました。
+* 山田さんに英語を教えます。
+
+### N1(person)に N2を もらいます・借ります・習います
+
+This is the opposite of the rule above, `N2` was received by `N1`.
+
+* (私は)木村さんに花をもらいました。
+* イーさんに本を借りました。
+* 山田さんに英語を習いました。
+
+### もう Vました
+
+Used to ask whether an action `V` has already been performed.
+Note that when answering in the negative, you have to use `いいえ、Vていません` instead of `いいえ、Vませんでした`
+
+* もう荷物を送りましたか。
+  * はい、(もう)送りました。
+  * いええ、まだ送っていません。
+  * いええ、まだです。
 
 ### Omission of particles
+
+In informal speech, particles are often omitted when the relationship they're supposed to express is obvious.
+
+* このスプーン(は)素敵ですね。
+* コーヒー(を)、もう一杯いかがですか。
 
 ## Chapter 8
 
 ### Adjectives
 
-### Nは なadj です・Nは いadj です
+There are な-adjectives and い-adjectives. They're used as predicates or to indicate・modify the state of a noun.
 
-### なadj N・いadj N
+### Nは な-adj です・Nは い-adj です
+
+For な-adjectives the `な` disappears after `Nは`. However, for い-adjectives the `い` remains.
+
+> |                     | な-adjectives    | い-adjectives |
+> | ------------------- | ---------------- | ------------- |
+> | present affirmative | しんせつです     | たかいです    |
+> | present negative    | 親切じゃないです | 高くないです  |
+
+In answers to adjective questions, the adjective is repeated.
+
+* ペキンは寒いですか。はい、寒いです。
+
+### な-adj N・い-adj N
+
+To modify a noun `N`, adjectives are placed in front of it. Both adjectives keep their suffix this time.
+
+* ワット先生は親切な先生です。
+* 富士山は高い山です。
 
 ### ～が、～
 
+`が` is used to express contrast between two clauses. If one clause is positive, the other will be negative.
+
+* 日本語の食べ物は美味しいですが、高いです。
+
 ### とても・あまり
+
+`とても` and `あまり` are both adverbs of degree.
+They both come before the adjective they modify.
+Note that you have to use a negative form of the verb or noun after `あまり`.
+
+* ペキンはとても寒いです。
+* これはとても有名な映画です。
+* シャンハイはあまり寒くないです。
+* 桜大学はあまり有名な大学じゃありません。
 
 ### Nは どうですか
 
+Is used to inquire about the listener's impression, opinion, or feeling of `N`.
+
+* 日本の生活はどうですか。
+  * 楽しいです。
+
 ### N1は どんなN2 ですか
 
+`どんな` modifies a noun `N2` and is used to inquire about the state of something (`N1`).
+
+* 奈良はどんな町ですか。
+  * 古い町です。
+
 ### そうですね
+
+Next to showing affirmation, `そうですね` can be used to indicate that you're thinking.
+
+* お仕事はどうですか。
+  * そうですね。忙しですが、面白いです。
 
 ## Chapter 9
 
