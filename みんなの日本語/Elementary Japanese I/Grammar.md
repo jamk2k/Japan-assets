@@ -67,27 +67,27 @@
   - [Chapter 9](#chapter-9)
     - [Nが (あります・わかります)・Nが (好きです・嫌いです・上手です・下手です)](#nが-ありますわかりますnが-好きです嫌いです上手です下手です)
     - [どんな N](#どんな-n)
-    - [よく・タイダイ・だくさん・少し・甘利・全然](#よくタイダイだくさん少し甘利全然)
-    - [～から、～](#から)
+    - [よく・たいだい・たくさん・少し・あまり・全然](#よくたいだいたくさん少しあまり全然)
+    - [C1から、C2](#c1からc2)
     - [どうして](#どうして)
   - [Chapter 10](#chapter-10)
     - [Nが あります・います](#nが-ありますいます)
     - [Placeに Nが あります・います](#placeに-nが-ありますいます)
     - [Nは placeに あります・います](#nは-placeに-ありますいます)
     - [N1(thing・person・place)の N2(position)](#n1thingpersonplaceの-n2position)
-    - [N1や N2](#n1や-n2)
-    - [アジアストアですか](#アジアストアですか)
+    - [N1や N2(など)](#n1や-n2など)
+    - [Confirmation instead of answering](#confirmation-instead-of-answering)
   - [Chapter 11](#chapter-11)
     - [How to say numbers](#how-to-say-numbers)
     - [How to use quantifiers](#how-to-use-quantifiers)
     - [Time period quantifier に 一回 V](#time-period-quantifier-に-一回-v)
-    - [Quantifier (だけ・Nだけ)](#quantifier-だけnだけ)
+    - [(quantifier・N)だけ](#quantifiernだけ)
   - [Chapter 12](#chapter-12)
     - [Tense and affirmative/negative forms of な-adj sentences](#tense-and-affirmativenegative-forms-of-な-adj-sentences)
     - [Tense and affirmative/negative forms of い-adj sentences](#tense-and-affirmativenegative-forms-of-い-adj-sentences)
     - [N1は N2より adjです](#n1は-n2より-adjです)
     - [N1と N2と どちらが adjですか N1・N2のほうが です](#n1と-n2と-どちらが-adjですか-n1n2のほうが-です)
-    - [N1 [の中]で (なに・どこ・だれ・いつ)が いちばん adjですか](#n1-の中で-なにどこだれいつが-いちばん-adjですか)
+    - [N [の中]で (なに・どこ・だれ・いつ)が いちばん adjですか](#n-の中で-なにどこだれいつが-いちばん-adjですか)
     - [Adjの (の substituting for a noun)](#adjの-の-substituting-for-a-noun)
   - [Chapter 13](#chapter-13)
     - [Nが 欲しいです](#nが-欲しいです)
@@ -648,51 +648,242 @@ Next to showing affirmation, `そうですね` can be used to indicate that you'
 
 ### Nが (あります・わかります)・Nが (好きです・嫌いです・上手です・下手です)
 
+`が` can be used to mark the objective of some verbs and adjectives.
+
+* 私はイタリア料理が好きです。
+* 私は日本語ができます。
+* 私は車があります。
+
 ### どんな N
 
-### よく・タイダイ・だくさん・少し・甘利・全然
+A `どんな` question can be answered using a specific name.
 
-### ～から、～
+* どんなスポーツが好きですか。
+  * サッカーが好きです。
+
+### よく・たいだい・たくさん・少し・あまり・全然
+
+You can add quantitative or degree adverbs before verbs
+
+> |             | adverb of degree    | adverb of quantity |
+> | ----------- | ------------------- | ------------------ |
+> | affirmative | よく わかります     | たくさん あります  |
+> |             | たいだい わかります | すこし あります    |
+> |             | 少し わかります     |                    |
+> | negative    | あまり わかりません | あまり ありません  |
+> |             | 全然 わかりません   | 全然 ありません    |
+
+* 英語がよくわかります。
+* 英語があまりわかりません。
+* お金がありません。
+* ここは少し寒いです。
+* あの映画は全然面白くないです。
+
+### C1から、C2
+
+The clause `C1` before `から` indicates the reason for clause `C2`.
+
+* 時間がありませんから、新聞を読みません。
+
+You can also use
+
+> C2、 C1から
+
+* 新聞を読みません、時間がありませんから。
 
 ### どうして
+
+`どうして` is used to ask the reason for something. The reply uses `から` at the end.
+
+* どうして朝新を読みませんか。
+  * 時間がありませんから。
+
+You can use just `どうしてですか` when you're asking for the reason of what's just been said.
+
+* 今日は早く帰ります。
+  * どうしてですか。
+    * 息子の誕生日ですから。
 
 ## Chapter 10
 
 ### Nが あります・います
 
+As seen in Het Perspectief.
+
+* 桜があります。
+* 犬がいます。
+
 ### Placeに Nが あります・います
+
+Used to mention that in a certain `place` there is an `N`, the focus is on the `place`.
+
+* 私の部屋に机があります。
+
+To ask what or who is present in a place, `なにが` or `だれが` is used respectively. Always use `が`, `なには` and `だれは` are **not correct**.
+
+* 地下に何がありますか。
+  * レストランがあります。
+* 受付にだれがいますか。
+  * 木村さんがいます。
 
 ### Nは placeに あります・います
 
+This grammar reverses the `N` and `place`. The `place` is no longer the topic, but `N` is.
+
+* 東京ディズニーランドは千葉県にあります。
+* ミラさんは事務所にいます。
+* 東京ディズニーランドはどこ(ですか・にありますか)。
+
 ### N1(thing・person・place)の N2(position)
 
-### N1や N2
+Used to say that `N1` is positioned `N2` in a certain way.
 
-### アジアストアですか
+* 机の上に写真があります。
+* 郵便局は銀行の中にあります。
+* 本屋は花屋とスーパーの間にあります。
+
+As usual `で` can be used to indicate the location of an action.
+
+* 駅の近くで友達に会いました。
+
+### N1や N2(など)
+
+To enumerate a non-exhaustive list of nouns, one can use `や`. The `など` roughly translates to `etc`.
+
+* 箱の中に手紙や写真(など)があります。
+
+Note that the list can consist of just one item.
+
+* 日本の料理の中でラーメンなどが好きです。
+
+### Confirmation instead of answering
+
+In conversation, people often confirm the question before answering.
+
+* すみません。アジアストアはどこですか。
+  * アジアストアですか。あの建物の中にあります。
 
 ## Chapter 11
 
 ### How to say numbers
 
+There are many counters.
+
+> | counter | for                   |
+> | ------- | --------------------- |
+> | ～つ    | things                |
+> | ～人    | people                |
+> | ～台    | machines and vehicles |
+> | ～枚    | flat things           |
+> | ～回    | frequency             |
+> | ～分    | minutes               |
+> | ～時間  | hours                 |
+> | ～日    | days                  |
+> | ～週間  | weeks                 |
+> | ～ヶ月  | months                |
+> | ～年    | years                 |
+
 ### How to use quantifiers
+
+Quantifiers (= numbers with counter suffixes) are usually put right after a noun + particle.
+
+* リンゴを四つ買いました。
+* 留学生が二人います。
+
+For time this is not always the case.
+
+* 国で二ヶ月日本語を勉強しました。
+
+`いくつ` can be used to ask how many items there are. It's used when you will answer with `～つ`.
+
+* 留学生が何人ですか。
+
+`なん` + counter suffix is used for all other cases.
+
+* 毎晩何時間日本語を勉強しますか。
+
+To ask how long something takes use `どのぐらい`.
+
+* どのぐらい日本語を勉強しましたか。
+  * 三年間勉強しました。
+* 大阪から東京までどのぐらい**かかりますか**。
+  * 新幹線で二時間半かかります。
+
+To answer using `about` use `ぐらい` after the quantifier.
+
+* 私たちの学校に先生が三十人ぐらいいます。
 
 ### Time period quantifier に 一回 V
 
-### Quantifier (だけ・Nだけ)
+This is used to express frequency.
+
+* 一ヶ月に二回映画を見ます。
+
+### (quantifier・N)だけ
+
+`だけ` is added after quantifiers or nouns to indicate that there is no more.
+
+* パワー電気に外国じんの会社員が一人だけいます。
+* 休みの日は日曜日だけです。
 
 ## Chapter 12
 
 ### Tense and affirmative/negative forms of な-adj sentences
 
+> |             | non-past         | past                 |
+> | ----------- | ---------------- | -------------------- |
+> | affirmative | 雨です           | 雨でした             |
+> |             | 静かなです       | 靜かなでした         |
+> | negative    | 雨じゃないです   | 雨じゃないでした     |
+> |             | 静かじゃないです | 静かなじゃないでした |
+
+* 昨日は雨でした。
+* 昨日の試験は簡単じゃないでした。
+
 ### Tense and affirmative/negative forms of い-adj sentences
+
+> |             | non-past     | past             |
+> | ----------- | ------------ | ---------------- |
+> | affirmative | 熱いです     | 暑かったです     |
+> | negative    | 熱くないです | 熱くなかったです |
+
+* 昨日は暑かったです。
+* 昨日のパーティーはあまり楽しくなかったです。
 
 ### N1は N2より adjです
 
+`より` can be used to compare `N1` to `N2`. `N1` is more `adj` than `N2`.
+
+* この車はあの車より大きいです。
+
 ### N1と N2と どちらが adjですか N1・N2のほうが です
 
-### N1 [の中]で (なに・どこ・だれ・いつ)が いちばん adjですか
+`どちら` is used to compare two items.
+
+* ミラさんとサントスさんとどちらがテニス上手ですか。
+  * ミラさんのほうが上手です。
+* 北海道と大阪とどちらが涼しいですか。
+  * 北海道のほうが涼しいです。
+* 春と秋とどちらが好きですか。
+  * 春のほうが好きです。
+
+### N [の中]で (なに・どこ・だれ・いつ)が いちばん adjですか
+
+`で` indicates the range of options the listener can choose between. `N` is the category he's choosing from while `adj` is the topic that he's basing his choice out of.
+
+* 日本料理の中で何が一番美味しいですか。
+  * 天ぷらが一番美味しいです。
+* 家族でだれが一番背が高いですか。
+  * 弟が一番背が高いです。
+* ヨーロッパでどこが一番良かったですか。
+  * スイスが一番良かったです。
 
 ### Adjの (の substituting for a noun)
+
+Nouns can also be substituted by just a `の`. This reinforces the rule from Chapter 2 (`N1の`), you can also use `adj の`.
+
+* カリナさんのカバンはどれですか。
+  * あの赤くて、大きいです。
 
 ## Chapter 13
 
