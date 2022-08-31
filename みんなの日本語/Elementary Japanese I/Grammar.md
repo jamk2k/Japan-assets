@@ -361,25 +361,25 @@ States in what `place` `N` is.
 
 ## Chapter 4
 
-### 今 X時 Y分 です
+### **今 X時 Y分 です**
 
 As seen in Het Perspectief. `分` is read as `ふん` for 2, 5, 7, or 9 and `ぷん` for the others. 1, 6, 8, and 10 become `いっぷん`, `ろっぷん`, `はっぷん`, `じゅっぷん`. To ask the time use `今何時ですか。`.
 
-### V ます・V ません・V ました・Vませんでした
+### **V ます・V ません・V ました・Vませんでした**
 
 As seen in Het Perspectief. `ます` shows politeness towards the listener. `か` is used to ask questions. `そうです` and `違います` can not be used to answer `V ます` questions. The verb has to be repeated in the answer.
 
 * 何時に起きますか。
   * 六時に起きます。
 
-### N (time) に V
+### **N (time) に V**
 
 Used to indicated time of occurrence of an action. With `曜日`, `朝`, `昼`, `晩`, `夜`, `に` is optional.
 
 * 六時半に起きます。
   * 日曜日(に)奈良へ行きます。
 
-### N1 から N2 まで
+### **N1 から N2 まで**
 
 `から` indicates a start time or location. `まで` indicates a finishing time or location.
 
@@ -393,13 +393,13 @@ To indicate the start or finishing time of a noun introduced as the topic, `で�
 
 * 昼休みは十二時からです。
 
-### N1 と N2
+### **N1 と N2**
 
 `と` connects two nouns together
 
 * 銀行の休みは土曜日と日曜日です。
 
-### ～ね
+### **～ね**
 
 The particle `ね` is attached to the end of a sentence to illicit agreement from the listener (`, right?` in english).
 
@@ -407,13 +407,13 @@ The particle `ね` is attached to the end of a sentence to illicit agreement fro
 
 ## Chapter 5
 
-### N (place) へ 行きます・来ます・帰ります
+### **N (place) へ 行きます・来ます・帰ります**
 
 `へ` is placed after the place where we're moving to. Compared to `に`, `へ` puts more emphasis on the location. It translates more as `towards` while `に` would be `to`.
 
 * 京都へ行きます。
 
-### どこ[へ]も 行きません・行きませんでした
+### **どこ[へ]も 行きません・行きませんでした**
 
 When you want to deny everything in a question you use `も` + the negative form of the verb.
 
@@ -421,7 +421,7 @@ When you want to deny everything in a question you use `も` + the negative form
 * 何も食べませんでした。
 * 誰も来ませんでした。
 
-### N (vehicle) で行きます・来ます・帰ります
+### **N (vehicle) で行きます・来ます・帰ります**
 
 `で` indicates a means or method.
 
@@ -431,7 +431,7 @@ For walking we use `あるいて` instead.
 
 * 駅から歩いて帰りました。
 
-### N (person/animal) と V
+### **N (person/animal) と V**
 
 When doing something with a person or animal, you use `と`.
 
@@ -441,19 +441,19 @@ When you do something by yourself you use `ひとりで`.
 
 * 一人で東京へ行きます。
 
-### いつ
+### **いつ**
 
 `いつ` is used to ask when something will happen. You can't use `に` with it.
 
 * いつ広島へ行きますか。
 
-### ～よ
+### **～よ**
 
 The particle `よ` at the end of a sentence emphasizes **new information** to the listener, shows that you're **giving judgement** or are being **assertive**.
 
 * 北海道に馬がたくさんにいます。
 
-### そうですね
+### **そうですね**
 
 Can be used to express sympathy or agreement. `そうですか` is used when the information is new, `そうですね` is used when the information was already known.
 
@@ -462,25 +462,25 @@ Can be used to express sympathy or agreement. `そうですか` is used when the
 
 ## Chapter 6
 
-### Nを V(transitive)
+### **Nを V(transitive)**
 
 `を` is used to indicate the direct object `N` of a transitive verb `V`.
 
 * ジュースを飲みます。
 
-### Nを します
+### **Nを します**
 
 Means that the noun `N` is being performed.
 
 * サッカーをします
 
-### 何を しますか
+### **何を しますか**
 
 Asks about someone's actions
 
 * 月曜日何をしますか。
 
-### なん and なに
+### **なん and なに**
 
 `なん` and `なに` both mean `what`.
 
@@ -498,13 +498,13 @@ Asks about someone's actions
 * 何で東京へ行きますか。
   * How are you getting to Tokyo?
 
-### N(place)で V
+### **N(place)で V**
 
 `で` denotes the occurrence of an action `V` at `N`.
 
 * 駅で新聞を買います。
 
-### Vませんか
+### **Vませんか**
 
 > V-ますbase + ませんか
 
@@ -512,7 +512,7 @@ Used to invite someone to do something (`V`). This is more considerate than `ま
 
 * 一緒に京都へ行きませんか。
 
-### Vましょう
+### **Vましょう**
 
 > V-ますbase + ましょう
 
@@ -524,7 +524,7 @@ Or to respond positively to an invitation.
 
 * ええ、休みましょう。
 
-### ～か
+### **～か**
 
 `か` can be used to acknowledge that the listener has received new information as with `そうですか`.
 
@@ -533,21 +533,21 @@ Or to respond positively to an invitation.
 
 ## Chapter 7
 
-### N(tool/means)で V
+### **N(tool/means)で V**
 
 `で` indicates a method or means `N` used for an action `V`.
 
 * 箸で食べます。
 * 日本語でレポートに書きます。
 
-### (Word・sentence)は ～語で 何ですか
+### **(Word・sentence)は ～語で 何ですか**
 
 Used to ask how to say a word or sentence in another language.
 
 * 「ありがとう」は英語で何ですか。
 * 「Thank you」は日本語で何ですか。
 
-### N1(person)に N2を あげます・貸します・教えます
+### **N1(person)に N2を あげます・貸します・教えます**
 
 Used to say that `N2` was imparted to `N1`.
 
@@ -555,7 +555,7 @@ Used to say that `N2` was imparted to `N1`.
 * イーさんに本を貸しました。
 * 山田さんに英語を教えます。
 
-### N1(person)に N2を もらいます・借ります・習います
+### **N1(person)に N2を もらいます・借ります・習います**
 
 This is the opposite of the rule above, `N2` was received by `N1`.
 
@@ -563,7 +563,7 @@ This is the opposite of the rule above, `N2` was received by `N1`.
 * イーさんに本を借りました。
 * 山田さんに英語を習いました。
 
-### もう Vました
+### **もう Vました**
 
 Used to ask whether an action `V` has already been performed.
 Note that when answering in the negative, you have to use `いいえ、Vていません` instead of `いいえ、Vませんでした`
@@ -573,7 +573,7 @@ Note that when answering in the negative, you have to use `いいえ、Vてい�
   * いええ、まだ送っていません。
   * いええ、まだです。
 
-### Omission of particles
+### **Omission of particles**
 
 In informal speech, particles are often omitted when the relationship they're supposed to express is obvious.
 
@@ -582,11 +582,11 @@ In informal speech, particles are often omitted when the relationship they're su
 
 ## Chapter 8
 
-### Adjectives
+### **Adjectives**
 
 There are な-adjectives and い-adjectives. They're used as predicates or to indicate・modify the state of a noun.
 
-### Nは な-adj です・Nは い-adj です
+### **Nは な-adj です・Nは い-adj です**
 
 For な-adjectives the `な` disappears after `Nは`. However, for い-adjectives the `い` remains.
 
@@ -599,20 +599,20 @@ In answers to adjective questions, the adjective is repeated.
 
 * ペキンは寒いですか。はい、寒いです。
 
-### な-adj N・い-adj N
+### **な-adj N・い-adj N**
 
 To modify a noun `N`, adjectives are placed in front of it. Both adjectives keep their suffix this time.
 
 * ワット先生は親切な先生です。
 * 富士山は高い山です。
 
-### ～が、～
+### **～が、～**
 
 `が` is used to express contrast between two clauses. If one clause is positive, the other will be negative.
 
 * 日本語の食べ物は美味しいですが、高いです。
 
-### とても・あまり
+### **とても・あまり**
 
 `とても` and `あまり` are both adverbs of degree.
 They both come before the adjective they modify.
@@ -623,21 +623,21 @@ Note that you have to use a negative form of the verb or noun after `あまり`.
 * シャンハイはあまり寒くないです。
 * 桜大学はあまり有名な大学じゃありません。
 
-### Nは どうですか
+### **Nは どうですか**
 
 Is used to inquire about the listener's impression, opinion, or feeling of `N`.
 
 * 日本の生活はどうですか。
   * 楽しいです。
 
-### N1は どんなN2 ですか
+### **N1は どんなN2 ですか**
 
 `どんな` modifies a noun `N2` and is used to inquire about the state of something (`N1`).
 
 * 奈良はどんな町ですか。
   * 古い町です。
 
-### そうですね
+### **そうですね**
 
 Next to showing affirmation, `そうですね` can be used to indicate that you're thinking.
 
@@ -646,7 +646,7 @@ Next to showing affirmation, `そうですね` can be used to indicate that you'
 
 ## Chapter 9
 
-### Nが (あります・わかります)・Nが (好きです・嫌いです・上手です・下手です)
+### **Nが (あります・わかります)・Nが (好きです・嫌いです・上手です・下手です)**
 
 `が` can be used to mark the objective of some verbs and adjectives.
 
@@ -654,14 +654,14 @@ Next to showing affirmation, `そうですね` can be used to indicate that you'
 * 私は日本語ができます。
 * 私は車があります。
 
-### どんな N
+### **どんな N**
 
 A `どんな` question can be answered using a specific name.
 
 * どんなスポーツが好きですか。
   * サッカーが好きです。
 
-### よく・たいだい・たくさん・少し・あまり・全然
+### **よく・たいだい・たくさん・少し・あまり・全然**
 
 You can add quantitative or degree adverbs before verbs
 
@@ -679,7 +679,7 @@ You can add quantitative or degree adverbs before verbs
 * ここは少し寒いです。
 * あの映画は全然面白くないです。
 
-### C1から、C2
+### **C1から、C2**
 
 The clause `C1` before `から` indicates the reason for clause `C2`.
 
@@ -691,7 +691,7 @@ You can also use
 
 * 新聞を読みません、時間がありませんから。
 
-### どうして
+### **どうして**
 
 `どうして` is used to ask the reason for something. The reply uses `から` at the end.
 
@@ -706,14 +706,14 @@ You can use just `どうしてですか` when you're asking for the reason of wh
 
 ## Chapter 10
 
-### Nが あります・います
+### **Nが あります・います**
 
 As seen in Het Perspectief.
 
 * 桜があります。
 * 犬がいます。
 
-### Placeに Nが あります・います
+### **Placeに Nが あります・います**
 
 Used to mention that in a certain `place` there is an `N`, the focus is on the `place`.
 
@@ -726,7 +726,7 @@ To ask what or who is present in a place, `なにが` or `だれが` is used res
 * 受付にだれがいますか。
   * 木村さんがいます。
 
-### Nは placeに あります・います
+### **Nは placeに あります・います**
 
 This grammar reverses the `N` and `place`. The `place` is no longer the topic, but `N` is.
 
@@ -734,7 +734,7 @@ This grammar reverses the `N` and `place`. The `place` is no longer the topic, b
 * ミラさんは事務所にいます。
 * 東京ディズニーランドはどこ(ですか・にありますか)。
 
-### N1(thing・person・place)の N2(position)
+### **N1(thing・person・place)の N2(position)**
 
 Used to say that `N1` is positioned `N2` in a certain way.
 
@@ -746,7 +746,7 @@ As usual `で` can be used to indicate the location of an action.
 
 * 駅の近くで友達に会いました。
 
-### N1や N2(など)
+### **N1や N2(など)**
 
 To enumerate a non-exhaustive list of nouns, one can use `や`. The `など` roughly translates to `etc`.
 
@@ -756,7 +756,7 @@ Note that the list can consist of just one item.
 
 * 日本の料理の中でラーメンなどが好きです。
 
-### Confirmation instead of answering
+### **Confirmation instead of answering**
 
 In conversation, people often confirm the question before answering.
 
@@ -765,7 +765,7 @@ In conversation, people often confirm the question before answering.
 
 ## Chapter 11
 
-### How to say numbers
+### **How to say numbers**
 
 There are many counters.
 
@@ -783,7 +783,7 @@ There are many counters.
 > | ～ヶ月  | months                |
 > | ～年    | years                 |
 
-### How to use quantifiers
+### **How to use quantifiers**
 
 Quantifiers (= numbers with counter suffixes) are usually put right after a noun + particle.
 
@@ -813,13 +813,13 @@ To answer using `about` use `ぐらい` after the quantifier.
 
 * 私たちの学校に先生が三十人ぐらいいます。
 
-### Time period quantifier に 一回 V
+### **Time period quantifier に 一回 V**
 
 This is used to express frequency.
 
 * 一ヶ月に二回映画を見ます。
 
-### (quantifier・N)だけ
+### **(quantifier・N)だけ**
 
 `だけ` is added after quantifiers or nouns to indicate that there is no more.
 
@@ -828,7 +828,7 @@ This is used to express frequency.
 
 ## Chapter 12
 
-### Tense and affirmative/negative forms of な-adj sentences
+### **Tense and affirmative/negative forms of な-adj sentences**
 
 > |             | non-past         | past                 |
 > | ----------- | ---------------- | -------------------- |
@@ -840,7 +840,7 @@ This is used to express frequency.
 * 昨日は雨でした。
 * 昨日の試験は簡単じゃないでした。
 
-### Tense and affirmative/negative forms of い-adj sentences
+### **Tense and affirmative/negative forms of い-adj sentences**
 
 > |             | non-past     | past             |
 > | ----------- | ------------ | ---------------- |
@@ -850,13 +850,13 @@ This is used to express frequency.
 * 昨日は暑かったです。
 * 昨日のパーティーはあまり楽しくなかったです。
 
-### N1は N2より adjです
+### **N1は N2より adjです**
 
 `より` can be used to compare `N1` to `N2`. `N1` is more `adj` than `N2`.
 
 * この車はあの車より大きいです。
 
-### N1と N2と どちらが adjですか N1・N2のほうが です
+### **N1と N2と どちらが adjですか N1・N2のほうが です**
 
 `どちら` is used to compare two items.
 
@@ -867,7 +867,7 @@ This is used to express frequency.
 * 春と秋とどちらが好きですか。
   * 春のほうが好きです。
 
-### N [の中]で (なに・どこ・だれ・いつ)が いちばん adjですか
+### **N [の中]で (なに・どこ・だれ・いつ)が いちばん adjですか**
 
 `で` indicates the range of options the listener can choose between. `N` is the category he's choosing from while `adj` is the topic that he's basing his choice out of.
 
@@ -878,7 +878,7 @@ This is used to express frequency.
 * ヨーロッパでどこが一番良かったですか。
   * スイスが一番良かったです。
 
-### Adjの (の substituting for a noun)
+### **Adjの (の substituting for a noun)**
 
 Nouns can also be substituted by just a `の`. This reinforces the rule from Chapter 2 (`N1の`), you can also use `adj の`.
 
@@ -887,156 +887,156 @@ Nouns can also be substituted by just a `の`. This reinforces the rule from Cha
 
 ## Chapter 13
 
-### Nが 欲しいです
+### **Nが 欲しいです**
 
-### Vますたいです
+### **Vますたいです**
 
-### N(place)へ (Vます・N)に 行きます・来ます・帰ります
+### **N(place)へ (Vます・N)に 行きます・来ます・帰ります**
 
-### どこか・何か
+### **どこか・何か**
 
-### ご～
+### **ご～**
 
 ## Chapter 14
 
-### Verb groups
+### **Verb groups**
 
-### V て-form
+### **V て-form**
 
-### Vて ください
+### **Vて ください**
 
-### Vて います
+### **Vて います**
 
-### Vます ましょうか
+### **Vます ましょうか**
 
-### Nが V
+### **Nが V**
 
-### すみませんが
+### **すみませんが**
 
 ## Chapter 15
 
-### Vても いいですか
+### **Vても いいですか**
 
-### Vては いけません
+### **Vては いけません**
 
-### Vて います
+### **Vて います**
 
-### Nに V
+### **Nに V**
 
-### N1に N2を V
+### **N1に N2を V**
 
 ## Chapter 16
 
-### How to join >= two sentences together
+### **How to join >= two sentences together**
 
-### V1て から、V2
+### **V1て から、V2**
 
-### N1は N2が adj
+### **N1は N2が adj**
 
-### Nを V
+### **Nを V**
 
-### どうやって
+### **どうやって**
 
-### どれ・どの N
+### **どれ・どの N**
 
 ## Chapter 17
 
-### V ない-form
+### **V ない-form**
 
-### Vない ないで ください
+### **Vない ないで ください**
 
-### Vない なければ なりません
+### **Vない なければ なりません**
 
-### Vない なくても いいです
+### **Vない なくても いいです**
 
-### Making an object the topic of a sentence
+### **Making an object the topic of a sentence**
 
-### N(time) までに V
+### **N(time) までに V**
 
 ## Chapter 18
 
-### Dictionary form of verbs
+### **Dictionary form of verbs**
 
-### (N・V-dictこと)が できます
+### **(N・V-dictこと)が できます**
 
-### 私の趣味は (N・V-dictこと)です
+### **私の趣味は (N・V-dictこと)です**
 
-### (V1-dict・Nの・time quantifier)前に、V2
+### **(V1-dict・Nの・time quantifier)前に、V2**
 
-### なかなか
+### **なかなか**
 
-### ぜひ
+### **ぜひ**
 
 ## Chapter 19
 
-### V た-form
+### **V た-form**
 
-### Vたことが あります
+### **Vたことが あります**
 
-### V1たり、V2たり します
+### **V1たり、V2たり します**
 
-### (いadjく・なadjに・Nに) なります
+### **(いadjく・なadjに・Nに) なります**
 
 ## Chapter 20
 
-### Polite style and plain style
+### **Polite style and plain style**
 
-### Proper use of the polite style or plain style
+### **Proper use of the polite style or plain style**
 
-### Conversation in plain style
+### **Conversation in plain style**
 
 ## Chapter 21
 
-### plainと 思います
+### **plainと 思います**
 
-### (plain・sentence) と言います
+### **(plain・sentence) と言います**
 
-### (V・adj・N) plain でしょう？
+### **(V・adj・N) plain でしょう？**
 
-### N1 (place)で N2が あります
+### **N1 (place)で N2が あります**
 
-### N (occasion)で
+### **N (occasion)で**
 
-### Nでも V
+### **Nでも V**
 
-### Vない と
+### **Vない と**
 
 ## Chapter 22
 
-### Noun modification
+### **Noun modification**
 
-### V-dict 時間・約束・幼児
+### **V-dict 時間・約束・幼児**
 
-### Vます ましょうか
+### **Vます ましょうか**
 
 ## Chapter 23
 
-### (V-dict・Vない・adj・Nの)とき、～ main clause
+### **(V-dict・Vない・adj・Nの)とき、～ main clause**
 
-### (V-dict・Vた) とき、～ main clause
+### **(V-dict・Vた) とき、～ main clause**
 
-### V-dict と、～ main clause
+### **V-dict と、～ main clause**
 
-### Nが adj
+### **Nが adj**
 
-### Nを motion V
+### **Nを motion V**
 
 ## Chapter 24
 
-### くれます
+### **くれます**
 
-### Vて (あげます・もらいます・くれます)
+### **Vて (あげます・もらいます・くれます)**
 
-### N1は N2が V
+### **N1は N2が V**
 
 ## Chapter 25
 
-### Plain past form ら、～ main clause
+### **Plain past form ら、～ main clause**
 
-### Vた ら、～ main clause
+### **Vた ら、～ main clause**
 
-### (N・adj・て・ない) も、～
+### **(N・adj・て・ない) も、～**
 
-### もし
+### **もし**
 
-### Subject of a subordinate clause
+### **Subject of a subordinate clause**
