@@ -59,12 +59,12 @@
 | ハラハラする |                  |   to be anxious   |
 |  大喜びする  | おおよろこびする | to feel great joy |
 
-
 ## Sayings
 
-|       日本語       |              翻訳              |
-|:------------------:|:------------------------------:|
-|    気にしないで    |      don't worry about it      |
-|   行けなくなった   |           I can't go           |
-| S の理由の一つです | `S` is one of the reasons that |
-|       大喜び       | `S` is one of the reasons that |
+|       日本語       |              翻訳               |
+|:------------------:|:-------------------------------:|
+|    気にしないで    |      don't worry about it       |
+|   行けなくなった   |           I can't go            |
+| S の理由の一つです | `S` is one of the reasons that  |
+|       大喜び       |         to be delighted         |
+|    S1 までに S2    | by S1 (time), S2 should be done |
