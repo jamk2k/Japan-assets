@@ -35,6 +35,7 @@
 	* [Chapter 6](#chapter-6)
 	* [Chapter 7](#chapter-7)
 	* [Chapter 8](#chapter-8)
+		* [**Vながら S**](#v%E3%81%AA%E3%81%8C%E3%82%89-s)
 	* [Chapter 9](#chapter-9)
 
 <!-- /TOC -->
@@ -356,6 +357,19 @@ Used to express that something `V` is easy or hard to do.
 ## Chapter 7
 
 ## Chapter 8
+
+### **Vながら S**
+
+Used to say that two actions happen at the same time. The verb `V` uses the `ます`-stem. The part `S` after the `ながら` is always the main action. Both actions are always exerted by the same person.
+
+* 私は、歌を歌いながら、帰りました。
+* 景色を見ながら、お弁当を食べました。
+* 子どもが泣きながら歩いています。
+
+Sometimes we can talk about periods. Action `S` takes places during the side action `V`.
+
+* 私はアルバイトをしながら、大学で勉強しました。
+* 山本さんは会社に 勤めながら、小説を書きました。
 
 ## Chapter 9
 
