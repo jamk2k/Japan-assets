@@ -42,6 +42,12 @@
 |       小説       |             novel              |
 |       締切       |            deadline            |
 |      受講料      |          course fees           |
+|      手続き      |           procedure            |
+|       故障       |      out of order/broken       |
+|       予定       |            schedule            |
+|       変更       |             change             |
+|       利用       |             usage              |
+|       火事       |              fire              |
 
 
 ## イ-adjectives
@@ -64,30 +70,36 @@
 
 ## Godan verbs
 
-|     辞書形     |    ひらがな    |            翻訳             |
-|:--------------:|:--------------:|:---------------------------:|
-|      誘う      |     さそう     |          to invite          |
-|      断る      |    ことわる    |          to refuse          |
-|   盛り上がる   |   もりあがる   |          to swell           |
-|    無くなる    |  なくなります  |         to get lost         |
-|      謝る      |    あやまる    |        to apologize         |
-|      呼ぶ      |      よぶ      |           to call           |
-| 連れて行きます | つれていきます |          to bring           |
-|     触れる     |     ふれる     |          to touch           |
-|     繋がる     |    つながる    |       to be connected       |
-|      学ぶ      |     まなぶ     |          to study           |
-|     見習う     |    みならう    | to follow another's example |
-|   自信が付く   |  じしんがつく  |     to gain confidence      |
-|      続く      |     つづく     |         to continue         |
-|   聞き取れる   |   ききとれる   |        to understand        |
+|      辞書形      |     ひらがな     |            翻訳             |
+|:----------------:|:----------------:|:---------------------------:|
+|       誘う       |      さそう      |          to invite          |
+|       断る       |     ことわる     |          to refuse          |
+|    盛り上がる    |    もりあがる    |          to swell           |
+|     無くなる     |   なくなります   |         to get lost         |
+|       謝る       |     あやまる     |        to apologize         |
+|       呼ぶ       |       よぶ       |           to call           |
+|  連れて行きます  |  つれていきます  |          to bring           |
+|      触れる      |      ふれる      |          to touch           |
+|      繋がる      |     つながる     |       to be connected       |
+|       学ぶ       |      まなぶ      |          to study           |
+|      見習う      |     みならう     | to follow another's example |
+|    自信が付く    |   じしんがつく   |     to gain confidence      |
+|       続く       |      つづく      |         to continue         |
+|    聞き取れる    |    ききとれる    |        to understand        |
+|       頼む       |      たのむ      |         to ask/beg          |
+| ひどいに目に遭う | ひどいにめにあう |      to face disaster       |
 
 ## Ichidan verbs
 
-|   辞書形   |  ひらがな  |     翻訳      |
-|:----------:|:----------:|:-------------:|
-| 引き分ける | ひきわける | to tie a game |
-|   感じる   |  かんじる  |    to feel    |
-|   痺れる   |  しびれる  |  to go numb   |
+|   辞書形   |  ひらがな  |      翻訳       |
+|:----------:|:----------:|:---------------:|
+| 引き分ける | ひきわける |  to tie a game  |
+|   感じる   |  かんじる  |     to feel     |
+|   痺れる   |  しびれる  |   to go numb    |
+|   逃げる   |   にげる   |     to run      |
+|   求める   |  もとめる  | to request/want |
+|   建てる   |   たてる   |    to build     |
+|   流れる   |  ながれる  |     to flow     |
 
 ## Irregular verbs
 
@@ -99,6 +111,7 @@
 |  大喜びする  | おおよろこびする | to feel great joy |
 |  演劇をする  |  えんげきをする  |  to play a play   |
 |   参加する   |    さんかする    |  to participate   |
+|   開始する   |    かいしする    |     to start      |
 
 ## Sayings
 
@@ -116,4 +129,5 @@
 |        約〜        |             about `〜`              |
 |      約６年間      |            about 6 years            |
 |      おかげで      |              thanks to              |
-|                    |            not being shy            |
+| 恥ずかしがらないで |            not being shy            |
+|      とにかく      |               anyhow                |
