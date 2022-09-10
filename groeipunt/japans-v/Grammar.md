@@ -53,19 +53,22 @@ It originally comes from `ならば`.
 
 ### **S って言って(い)ました(よ)**
 
-This is the same as `と 言っていました` but is used more often in speech. One must use the informal form of the verb in `S`. When surrounded by`「」`, you can use the formal form. We can also use `って言ってた`.
+This is the same as `と 言っていました` but is used more often in speech. One must use the informal form of the verb in `S`. When surrounded by`「」`, you can use the formal form.
 
 * 山田さんも行くって、言ってました。
 * 試合のチケットは、もう買ったって言ってました。
 * テレビで、今度の週末は暑くないって言ってましたよ。
 * アナウンサーは「あしたは寒いです」って言ってました。
+
+We can also use `って言ってた`.
+
 * アナウンサーは「あしたは寒いです」って言ってた。
 
 ### **実は、〜んです**
 
 Used to say `to be honest`, `frankly`,... .
 
-* 実は、中国から知り合いが日本位来るんです。
+* 実は、中国から知り合いが日本に来るんです。
 * 実は、前から一度サッカー場に行ってみたかったんです。
 * 実は、学生の時、ずっとサッカーをやていたんです。
 
@@ -75,30 +78,36 @@ Used to say `to be honest`, `frankly`,... .
 
 > `Do ~!`
 
-Used to issue a command. For `一段動詞` you can use `ろ` or `よ`. The former is used in speech, while the latter in writing. `って` or `ってば` can be added do indicate that you're repeating the command. `よ` can be used to soften the command.
+Used to issue a command. For `一段動詞` you can use `ろ` or `よ`. The former is used in speech, while the latter in writing.
 
 > | 動詞型     | ルール          | 動詞   | たとえば       |
 > |------------|-----------------|--------|----------------|
 > | 五段       | ~~う~~ + え     | 泳ぐ   | 泳げ           |
-> | 一段       | ~~る~~ + よ・ろ | 食べる | 食べろ・食べよ |
-> | 不規則動詞 |                 | する   | せよ・せろ     |
+> | 一段       | ~~る~~ + ろ・よ | 食べる | 食べろ・食べよ |
+> | 不規則動詞 |                 | する   | せろ・せよ     |
 > |            |                 | 来る   | こい           |
 
 * 頑張れ
 * しかりしろ
 * 逃げろ
 * 食べよ
-* 食べろよ
+* こい
+
+`って` or `ってば` can be added do indicate that you're repeating the command.
+
 * やめろって
 * やめろってば
-* こい
+
+`よ` can be used to soften the command.
+
+* 食べろよ
 
 #### Negative
 
 > `Do not ~!`  
 > dictionary form + な
 
-Used to issue a negative command. For this one we only have to attach `な` to the dictionary form. Here we can again add `よ` to soften the command. Women will rather use `ないで`.
+Used to issue a negative command. For this rule, we only have to attach `な` to the dictionary form. Here we can again add `よ` to soften the command. Women will rather use `ないで`.
 
 * 負けるな
 * 諦めるな
@@ -107,18 +116,19 @@ Used to issue a negative command. For this one we only have to attach `な` to t
 
 ### **Ｖなければなりません・Ｖなきゃいけません**
 
-Indicates that something must be done. As seen in みんなの日本語. Use the `な` form of a verb + `きゃいけません` or `なければなりません`. We can also use `〜んです` in conversation to decline an invitation.
+Indicates that something must be done. As seen in みんなの日本語. Use the `な` form of a verb + `きゃいけません` or `ければなりません`. We can also use `〜んです` in conversation to decline an invitation.
 
 * 土曜日に父の知り合いを迎えに行かなければなりません。
-* 土曜日に父の知り合いを迎えに行かなキャいけないんです。
+* 土曜日に父の知り合いを迎えに行かなきゃいけないんです。
 * 土曜日に父の知り合いを迎えに行かなきゃ行けません。
 
 ### **Adjectives & verbs to nouns**
 
-> `A + さ`  
+> `な-A + さ`  
+> `い-A`~~`な`~~` + さ`  
 > `V`~~`ます`~~
 
-Both adjectives and verbs can be turned into nouns. For adjectives we just have to add `` (don't use the `な` for な-adj). For verbs we just remove the `ます`.
+Both adjectives and verbs can be turned into nouns. For adjectives we just have to add `さ`. For verbs we just remove the `ます`.
 
 * ながとも投手のプレーの**素晴らしさ**に感動しました。
 * ルールの**簡単さ**が、サッカー人気の理由の一つです。
@@ -128,7 +138,7 @@ Both adjectives and verbs can be turned into nouns. For adjectives we just have 
 
 > S1 S2 particle S3 -> S2 particle の S3
 
-You can use particles in combination with `の` to drop part of the sentence in a following sentence. Note that you can not use `にの`.
+You can use particles in combination with `の` to drop part (`S1`) of the sentence `S2` in a following sentence `S3`. Note that you can not use `にの`.
 
 * 私はよくJFサッカー場で、試合を見ます。
   * JFサッカー場での試合は、年に15回ぐらいです。
@@ -148,7 +158,7 @@ You can use particles in combination with `の` to drop part of the sentence in 
 
 > S そうです
 
-Used to say that you read/heard that `S`. `S` should be informal. To show the source of the information, one can use `によると` or `の話でわ`.
+Used to say that you read/heard that `S`. `S` should be informal, `な` turns into `だ` for -adjectives. To show the source of the information, one can use `によると` or `の話でわ`.
 
 * アニスさんの話でわ、トムさんはお酒を飲まないそうです。
   * I heard from Anice that Tom doesn't drink alcohol.
@@ -173,16 +183,16 @@ Used to say I'm doing something `V` for someone `N` as a favor.
 
 * 私は、妹におかしを買ってあげました。
   * I bought candy for my little sister.
-* 同じグループの人は中田さんにプリントを届けてあげてください。
+* 同じグループの人は田中さんにプリントを届けてあげてください。
   * Someone from the same group as Tanaka, please bring him his copies.
 * その本は、私が持っていますから、あとで貸してあげますよ。
   * Since I have that book, I'll lend it to you later.
 
 ### **N(は・が) Vてくれます**
 
-> N did V (especially for me)
+> `N` did `V` (especially for me)
 
-Someone `N` does something `V` especially for you. It doesn't translate that way literally, but the feeling that something is done `especially for you` is present.
+Someone `N` does something `V` especially for you. It doesn't translate that way literally, but the feeling that something is done _especially for you_ is present.
 
 * アニスさんが家に呼んでくれました。
   * Anice called me to her home.
@@ -193,7 +203,7 @@ Someone `N` does something `V` especially for you. It doesn't translate that way
 
 ### **Nに Vてもらいます**
 
-> I had N do V for me
+> I had `N` do `V` for me
 
 You asked someone `N` to do something `V` especially for you.
 
@@ -206,7 +216,7 @@ You asked someone `N` to do something `V` especially for you.
 
 ## Chapter 5
 
-### **volitional form**
+### **Volitional form**
 
 The volitional form is used to express `let's` or `shall`. It has no past or negative form and is not applicable to all verbs. The formal form is the `ましょう`-form. The informal form is made by changing the `う` for `おう` or the `る` for `よう`.
 
@@ -230,7 +240,6 @@ Used to say that something `N` is like something else `S`. The part `S` before `
 
 * この問題は学生にはちょっと難しいみたいです。
 * ここは昔学校だったみたいです。
-* あの人はまるで田中先生みたいです。
 * トムさんはアメリカへ行くみたいです。
 
 Sometimes `まるで` is used to strengthen `みたい`.
@@ -247,31 +256,31 @@ In more formal situations, `のよう` is often used to fulfill the same use cas
 * トムさんはアメリカへ行くようです。
 * 天使のような顔です。
 
-### **V ように**
+### **V ように S**
 
-Used to express `such that` or `do something in such a way that`. This is often used with potential verbs. The verb `V` should always be in the dictionary form or the `ない` form.
+Used to express `doing V such that S` or `do something V in such a way that S`. This is often used with potential verbs. The verb `V` should always be in the dictionary form or the `ない` form.
 
 * 読めるように字をきれいに書きました。
   * I wrote my letters neatly such that they can be read.
 * 後ろの席の人にも聞こえるように大きな声で話した。
-  * Such that the people sitting in the bag could also hear, I spoke with a load voice.
+  * Such that the people sitting in the bag could also hear, I spoke with a loud voice.
 * 忘れないようにノートにメモしました。
-  * Such that I don't forget, I took notes.
+  * I took notes such that I don’t forget.
 * 病気が治るように薬を飲んでください。
-  * To heal your illness, drink this medicine please
+  * To heal your illness, drink this medicine please.
 * どうか合格できますように。
   * I hope I can pass.
 
 ### **V ようにする**
 
-Used to express `to try to V` or `to try to make it V`. The verb `V` should always be in the dictionary form or the `ない` form. `ようにしています` is also used often.
+Used to express `to try to V` or `to try to make it V`. The verb `V` should always be in the dictionary form or the `ない` form. `ようにしています` is also often used.
 
 * 毎朝8時に来るようにしてください。
   * Try to come every morning at 8 please.
 * 山川さんに会わないようにした。
   * I tried to not meet Yamakawa.
 * できるだけ日本語で話すようにしています。
-  * I'm try to speak in Japanese as much as possible.
+  * I'm trying to speak in Japanese as much as possible.
 
 ### **V ようになる**
 
@@ -309,12 +318,12 @@ Used to express that the speaker has the will to do something at the point of ut
 
 ### **V そう(です・な N)**
 
-Used to express `it looks like` or `it seems`. The verb `V` should use the `ます-stem`.
+Used to express `it looks like V` or `it seems V`. The verb `V` should use the `ます`-stem.
 
 * 次の試合は、いい成績が取れそうです。
   * It looks like they'll get a good result next match.
 * 私にも読めそうな本。
-  * It looks like a book I would read.
+  * It looks like a book I also would read.
 * シンさんにいい本を貸してもらったので、今日中にできそうです。
   * Shin lend me a good book so it seems like I'll be able to do it today.
 * 雨が降りそうです。
@@ -346,11 +355,11 @@ Can also be used to mean `even`.
 
 ### **V(安い・憎い)**
 
-Used to express that something `V` is easy or hard to do.
+Used to express that something `V` is easy or hard to do. The verb `V` has to use the `ます`-stem.
 
 * この漢字は覚えやすいです。
 * このペンは書きやすいです。
-* ドアは開きにくいです。
+* ドアは開き憎いです。
 
 ## Chapter 6
 
