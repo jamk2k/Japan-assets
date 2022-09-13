@@ -220,15 +220,15 @@ You asked someone `N` to do something `V` especially for you.
 
 The volitional form is used to express `let's` or `shall`. It has no past or negative form and is not applicable to all verbs. The formal form is the `ましょう`-form. The informal form is made by changing the `う` for `おう` or the `る` for `よう`.
 
-＞ | 動詞型     | ルール        | 動詞   | たとえば |
-＞ |------------|---------------|--------|----------|
-＞ | 五段       | ~~う~~ + おう | 泳ぐ   | 泳ごう   |
-＞ |            |               | いう   | いおう   |
-＞ |            |               | かく   | かこう   |
-＞ |            |               | とる   | とろう   |
-＞ | 一段       | ~~る~~ + よう | 食べる | 食べよう |
-＞ | 不規則動詞 |               | する   | しよう   |
-＞ |            |               | 来る   | こよう   |
+> | 動詞型     | ルール        | 動詞   | たとえば |
+> |------------|---------------|--------|----------|
+> | 五段       | ~~う~~ + おう | 泳ぐ   | 泳ごう   |
+> |            |               | いう   | いおう   |
+> |            |               | かく   | かこう   |
+> |            |               | とる   | とろう   |
+> | 一段       | ~~る~~ + よう | 食べる | 食べよう |
+> | 不規則動詞 |               | する   | しよう   |
+> |            |               | 来る   | こよう   |
 
 * 今度は車で行こう。
 * 結婚しようよ。
