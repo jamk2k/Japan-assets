@@ -158,7 +158,7 @@ You can use particles in combination with `の` to drop part (`S1`) of the sente
 
 > S そうです
 
-Used to say that you read/heard that `S`. `S` should be informal, `な` turns into `だ` for -adjectives. To show the source of the information, one can use `によると` or `の話でわ`.
+Used to say that you read/heard that `S`. `S` should be informal, `な` turns into `だ` for `な`-adjectives. To show the source of the information, one can use `によると` or `の話でわ`.
 
 * アニスさんの話でわ、トムさんはお酒を飲まないそうです。
   * I heard from Anice that Tom doesn't drink alcohol.
@@ -175,7 +175,7 @@ Can be used to express that something has been done. One can only use it with **
 * あっ、ケーキが切ってありますよ。
 * ページに書いてあります。
 
-### **N(は・が) Vあげます**
+### **N(は・が) Vてあげます**
 
 > I'm doing `V` for `N` (as a favor)
 
