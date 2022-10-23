@@ -2,42 +2,91 @@
 
 ## Nouns and misc
 
-| 日本語 | 翻訳  |
-| :----: | :---: |
-|        |       |
+|     漢字     |      ひらがな      |         翻訳          |
+|:------------:|:------------------:|:---------------------:|
+|     兄弟     |     きょうだい     |       brothers        |
+|    八百屋    |       やおや       |    vegetable shop     |
+|     大体     |      だいたい      |        general        |
+|     郊外     |      こうがい      |        suburbs        |
+|     都心     |       としん       |      city centre      |
+|     給料     |    きょうりょう    |        salary         |
+|   一戸建て   |      一戸建て      |    detached house     |
+|    駐車場    |  ちゅうしゃじょう  |      parking lot      |
+|     環境     |     かんきょう     |      environment      |
+|     転勤     |      てんきん      |     job transfer      |
+|     通勤     |      つうきん      |   commuting to work   |
+|     家賃     |       やちん       |         rent          |
+|     日付     |       ひづ付       |         datum         |
+|    記念日    |      きねんび      |      anniversary      |
+|     がき     |        がき        |         brat          |
+|    入れ墨    |      いれずみ      | tattoo (yakuza term)  |
+|   もちろん   |      もちろん      |       of course       |
+|    意地悪    |      いじわる      |       malicious       |
+|    伝える    |      つたえる      |       to convey       |
+|     かじ     |        かじ        |       household       |
+|     線路     |       せんろ       |      train track      |
+|     宝箱     |     たからばこ     |    treasure chest     |
+|     長屋     |       ながや       |       row house       |
+|  うち・いえ  |     うち・いえ     |    home / a house     |
+| スポーツ会館 | スポーツかんかいん |      sports gym       |
+|   路面電車   |   ろめんでんしゃ   |         tram          |
+|     歳上     |      としうえ      | older (living things) |
+|    奨学金    |   しょうがくきん   |      scholarship      |
+|              |                    |                       |
 
 ## イ-adjectives
 
-| 日本語 | 翻訳  |
-| :----: | :---: |
-|        |       |
+| 日本語 |          翻訳           |
+|:------:|:-----------------------:|
+|  古い  | old (non-living things) |
 
 ## ナ-adjectives
 
-| 日本語 | 翻訳  |
-| :----: | :---: |
-|        |       |
+| 日本語 | 翻訳 |
+|:------:|:----:|
+|        |      |
 
 ## Godan verbs
 
-| 辞書形 | ます形 | 翻訳  |
-| :----: | :----: | :---: |
-|        |        |       |
+|   漢字   | ひらがな |  翻訳   |
+|:--------:|:--------:|:-------:|
+| 気に入る | きにいる | to like |
+|   望む   |  のぞむ  | to wish |
 
 ## Ichidan verbs
 
-| 辞書形 | ます形 | 翻訳  |
-| :----: | :----: | :---: |
-|        |        |       |
+|  漢字  | ひらがな |             翻訳             |
+|:------:|:--------:|:----------------------------:|
+| 慣れる |  なれる  |   to become accustomed to    |
+| 変える |  かえる  |          to change           |
+| 並べる | ならべる | to put in order / to line up |
+| 集める | あつめる |          to collect          |
+| 晴れる |  はれる  |         to be sunny          |
+| 貰える | もらえる |    to be able to receive     |
+| 入れる | はいれる |     to be able to enter      |
 
 ## Irregular verbs
 
-| 辞書形 | ます形 | 翻訳  |
-| :----: | :----: | :---: |
-|        |        |       |
+|   漢字   |    ひらがな    |    翻訳     |
+|:--------:|:--------------:|:-----------:|
+| 案内する |  あんないする  |  to guide   |
+| 招待する | しょうたいする |  to invite  |
+| 研究する | けんきゅうする | to research |
 
 ## Sayings
 
-| 日本語 | 翻訳  |
-| :----: | :---: |
-|        |       |
+|         日本語         |                翻訳                |
+|:----------------------:|:----------------------------------:|
+|      できるだけ N      |          As N as possible          |
+|     できるだけ早く     |        As fast as possible         |
+|     あなたにとって     |           concerning you           |
+|          とも          |        everything together         |
+|        二人とも        |           both together            |
+|        三人とも        |         all three together         |
+|        代わりに        |             instead of             |
+|     従業の代わりに     |          instead of class          |
+|    V しまったんです    |              sadly, V              |
+|  食べてしまったんです  |     sadly, it's all been eaten     |
+|   食べちゃったんです   |     sadly, it's all been eaten     |
+|       入学できる       | can get in (to something academic) |
+| S 聞いてもいいですか。 |           can I ask `S`?           |

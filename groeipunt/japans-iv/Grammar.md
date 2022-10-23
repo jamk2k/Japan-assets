@@ -232,7 +232,7 @@ Used to express that `V2` happened before `V1`.
 
 > V-ると いいです(よ)
 
-`と いいです` can be used to make light suggestions. Often `よ` is used at the end of such a sentence to add emphasis.
+`と いいです` can be used to make light suggestions. Often `よ` is used at the end of such a sentence to add emphasis. The `と` stands for `if`: it would be good **if** `V`.
 
 * 毎日コンピューターで仕事して、肩が痛いです。肩をゆっくり回すといいですよ。
 * 最近、目が疲れています。ブルーベリーを食べるといいですよ。
