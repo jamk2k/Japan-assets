@@ -2,63 +2,69 @@
 
 ## Nouns and misc
 
-|     漢字     |     ひらがな     |         翻訳          |
-|:------------:|:----------------:|:---------------------:|
-|     兄弟     |    きょうだい    |       brothers        |
-|    八百屋    |      やおや      |    vegetable shop     |
-|     大体     |     だいたい     |        general        |
-|     郊外     |     こうがい     |        suburbs        |
-|     都心     |      としん      |      city centre      |
-|     給料     |   きょうりょう   |        salary         |
-|   一戸建て   |    いっこだて    |    detached house     |
-|    駐車場    | ちゅうしゃじょう |      parking lot      |
-|     環境     |    かんきょう    |      environment      |
-|     転勤     |     てんきん     |     job transfer      |
-|     通勤     |     つうきん     |   commuting to work   |
-|     家賃     |      やちん      |         rent          |
-|     日付     |      ひづけ      |         datum         |
-|    記念日    |     きねんび     |      anniversary      |
-|     がき     |       がき       |         brat          |
-|    入れ墨    |     いれずみ     | tattoo (yakuza term)  |
-|   もちろん   |     もちろん     |       of course       |
-|    意地悪    |     いじわる     |       malicious       |
-|    伝える    |     つたえる     |       to convey       |
-|     かじ     |       かじ       |       household       |
-|     線路     |      せんろ      |      train track      |
-|     宝箱     |    たからばこ    |    treasure chest     |
-|     長屋     |      ながや      |       row house       |
-|  うち・いえ  |    うち・いえ    |    home / a house     |
-| スポーツ会館 | スポーツかんかい |      sports gym       |
-|   路面電車   |  ろめんでんしゃ  |         tram          |
-|     歳上     |     としうえ     | older (living things) |
-|    奨学金    |  しょうがくきん  |      scholarship      |
-|     セミ     |       せみ       |        cicada         |
-|      鶏      |     にわとり     |        chicken        |
+|         漢字         |        ひらがな        |         翻訳          |
+| :------------------: | :--------------------: | :-------------------: |
+|         兄弟         |       きょうだい       |       brothers        |
+|        八百屋        |         やおや         |    vegetable shop     |
+|         大体         |        だいたい        |        general        |
+|         郊外         |        こうがい        |        suburbs        |
+|         都心         |         としん         |      city centre      |
+|         給料         |      きょうりょう      |        salary         |
+|       一戸建て       |       いっこだて       |    detached house     |
+|        駐車場        |    ちゅうしゃじょう    |      parking lot      |
+|         環境         |       かんきょう       |      environment      |
+|         転勤         |        てんきん        |     job transfer      |
+|         通勤         |        つうきん        |   commuting to work   |
+|         家賃         |         やちん         |         rent          |
+|         日付         |         ひづけ         |         datum         |
+|        記念日        |        きねんび        |      anniversary      |
+|         がき         |          がき          |         brat          |
+|        入れ墨        |        いれずみ        | tattoo (yakuza term)  |
+|       もちろん       |        もちろん        |       of course       |
+|        意地悪        |        いじわる        |       malicious       |
+|        伝える        |        つたえる        |       to convey       |
+|         かじ         |          かじ          |       household       |
+|         線路         |         せんろ         |      train track      |
+|         宝箱         |       たからばこ       |    treasure chest     |
+|         長屋         |         ながや         |       row house       |
+|      うち・いえ      |       うち・いえ       |    home / a house     |
+|     スポーツ会館     |    スポーツかんかい    |      sports gym       |
+|       路面電車       |     ろめんでんしゃ     |         tram          |
+|         歳上         |        としうえ        | older (living things) |
+|        奨学金        |     しょうがくきん     |      scholarship      |
+|         セミ         |          せみ          |        cicada         |
+|          鶏          |        にわとり        |        chicken        |
+|        やっと        |         やっと         |        finally        |
+|       引っ越し       |        ひっこし        | a move (from a house) |
+| 知り合ったばかりの人 | しりあったばかりのひと | someone you just met  |
+|         給料         |      きゅうりょう      |        salary         |
 
 ## イ-adjectives
 
 | 日本語 |          翻訳           |
-|:------:|:-----------------------:|
+| :----: | :---------------------: |
 |  古い  | old (non-living things) |
 
 ## ナ-adjectives
 
-| 日本語 | 翻訳 |
-|:------:|:----:|
-|        |      |
+| 日本語 | 翻訳  |
+| :----: | :---: |
+|        |       |
 
 ## Godan verbs
 
-|   漢字   | ひらがな |    翻訳     |
-|:--------:|:--------:|:-----------:|
-| 気に入る | きにいる |   to like   |
-|  近付く  | ちかずく | to approach |
-|   望む   |  のぞむ  |   to wish   |
+|   漢字   | ひらがな |     翻訳     |
+| :------: | :------: | :----------: |
+| 気に入る | きにいる |   to like    |
+|  近付く  | ちかずく | to approach  |
+|   望む   |  のぞむ  |   to wish    |
+|   編む   |   あむ   |   to knit    |
+| 落ち着く | おちつく | to calm down |
 
 ## Ichidan verbs
 
 |    漢字    |   ひらがな   |             翻訳             |
-|:----------:|:------------:|:----------------------------:|
+| :--------: | :----------: | :--------------------------: |
 |   慣れる   |    なれる    |   to become accustomed to    |
 |   変える   |    かえる    |          to change           |
 |   並べる   |   ならべる   | to put in order / to line up |
@@ -71,7 +77,7 @@
 ## Irregular verbs
 
 |   漢字   |    ひらがな    |    翻訳     |
-|:--------:|:--------------:|:-----------:|
+| :------: | :------------: | :---------: |
 | 案内する |  あんないする  |  to guide   |
 | 招待する | しょうたいする |  to invite  |
 | 研究する | けんきゅうする | to research |
@@ -79,7 +85,7 @@
 ## Sayings
 
 |        日本語        |                翻訳                |
-|:--------------------:|:----------------------------------:|
+| :------------------: | :--------------------------------: |
 |     できるだけ N     |          As N as possible          |
 |    できるだけ早く    |        As fast as possible         |
 |    あなたにとって    |           concerning you           |
@@ -90,6 +96,10 @@
 |    従業の代わりに    |          instead of class          |
 |   V しまったんです   |              sadly, V              |
 | 食べてしまったんです |     sadly, it's all been eaten     |
+|   V ちゃったんです   |      expressing regret of `V`      |
 |  食べちゃったんです  |     sadly, it's all been eaten     |
 |      入学できる      | can get in (to something academic) |
 | S 聞いてもいいですか |           can I ask `S`?           |
+|   楽しみしています   |       looking forward to it        |
+|         ずつ         |                each                |
+|       二匹ずつ       |         two of each animal         |
