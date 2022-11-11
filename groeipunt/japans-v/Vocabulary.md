@@ -49,7 +49,6 @@
 |       利用       |             usage              |
 |       火事       |              fire              |
 
-
 ## イ-adjectives
 
 | 日本語 | 翻訳 |
