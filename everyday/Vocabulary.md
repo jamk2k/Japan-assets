@@ -7,6 +7,10 @@
 |   先日   | few days ago / the other day |
 |   なす   |           eggplant           |
 | 焼きなす |        baked eggplant        |
+|  上手く  |          skilfully           |
+|    鏡    |            mirror            |
+|   在庫   |            stock             |
+|  試着室  |        changing room         |
 
 ## イ-adjectives
 
@@ -25,8 +29,9 @@
 
 ## Ichidan verbs
 
-| 辞書形 | ひらがな | 翻訳 |
-|:------:|:--------:|:----:|
+|  辞書形  |   ひらがな   |        翻訳         |
+|:--------:|:------------:|:-------------------:|
+| 試着する | しちゃくする | to try something on |
 
 ## Irregular verbs
 
