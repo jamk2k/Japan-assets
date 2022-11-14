@@ -8,6 +8,7 @@
 		* [**し / furthermore**](#%E3%81%97--furthermore)
 		* [**Potential form**](#potential-form)
 		* [**ことができる**](#%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B)
+		* [**たら-form**](#%E3%81%9F%E3%82%89-form)
 
 <!-- /TOC -->
 
@@ -93,3 +94,15 @@ If the verb `V` is a `する`-verb, you can drop the `をする` and the `こと
 
 * あの電話で外国に電話ができますか。
 * 中山さんは車の運転ができません。
+
+### **たら-form**
+
+Used to say `if A then B`. Just add `ら` after the `た`-form.
+
+* 駅に着いたら、電話をします。
+* 12時になったら、昼ごはんを食べます。
+* 先生聞いたら、すぐ分かります。
+
+You can also use `もし` for unrealistic conditions.
+
+* もし田中さんが来たら、私は帰ります。
