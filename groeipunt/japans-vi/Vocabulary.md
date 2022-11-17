@@ -3,7 +3,7 @@
 ## Nouns and misc
 
 |         漢字         |        ひらがな        |         翻訳          |
-|:--------------------:|:----------------------:|:---------------------:|
+| :------------------: | :--------------------: | :-------------------: |
 |         兄弟         |       きょうだい       |       brothers        |
 |        八百屋        |         やおや         |    vegetable shop     |
 |         大体         |        だいたい        |        general        |
@@ -41,34 +41,41 @@
 |         市内         |         しない         |      in the city      |
 |         以上         |        いじょう        |         above         |
 |         以下         |          いか          |         under         |
+|         以内         |         いない         |        within         |
+|      １０年以内      |    じゅうねんいない    |    within 10 years    |
+|         不足         |         ふそく         |      not enough       |
+|         広場         |         ひろば         |     public square     |
+|      置くところ      |       おくところ       |    place to store     |
 
 ## イ-adjectives
 
 | 日本語 |          翻訳           |
-|:------:|:-----------------------:|
+| :----: | :---------------------: |
 |  古い  | old (non-living things) |
 
 ## ナ-adjectives
 
-| 日本語 | 翻訳 |
-|:------:|:----:|
-| 豊かな | rich |
+| 日本語 |  翻訳   |
+| :----: | :-----: |
+| 豊かな |  rich   |
+|  不安  | anxiety |
 
 ## Godan verbs
 
-|   漢字   | ひらがな |       翻訳        |
-|:--------:|:--------:|:-----------------:|
-| 気に入る | きにいる |      to like      |
-|  近付く  | ちかずく |    to approach    |
-|   望む   |  のぞむ  |      to wish      |
-|   編む   |   あむ   |      to knit      |
-| 落ち着く | おちつく |   to calm down    |
-|   困る   |  こまる  | to be problematic |
+|   漢字   | ひらがな |           翻訳           |
+| :------: | :------: | :----------------------: |
+| 気に入る | きにいる |         to like          |
+|  近付く  | ちかずく |       to approach        |
+|   望む   |  のぞむ  |         to wish          |
+|   編む   |   あむ   |         to knit          |
+| 落ち着く | おちつく |       to calm down       |
+|   困る   |  こまる  |    to be problematic     |
+|  広がる  | ひろがる | to spread (intransitive) |
 
 ## Ichidan verbs
 
 |    漢字    |   ひらがな   |             翻訳             |
-|:----------:|:------------:|:----------------------------:|
+| :--------: | :----------: | :--------------------------: |
 |   慣れる   |    なれる    |   to become accustomed to    |
 |   変える   |    かえる    |          to change           |
 |   並べる   |   ならべる   | to put in order / to line up |
@@ -78,11 +85,13 @@
 |   入れる   |   はいれる   |     to be able to enter      |
 | 鳴き始める | なきはじめる |     to start to chatter      |
 |   離れる   |   はなれる   |          to detach           |
+|   広げる   |   ひろげる   |    to spread (transitive)    |
+|   迎える   |   むかえる   |          to welcome          |
 
 ## Irregular verbs
 
 |   漢字   |    ひらがな    |     翻訳     |
-|:--------:|:--------------:|:------------:|
+| :------: | :------------: | :----------: |
 | 案内する |  あんないする  |   to guide   |
 | 招待する | しょうたいする |  to invite   |
 | 研究する | けんきゅうする | to research  |
@@ -91,7 +100,7 @@
 ## Sayings
 
 |        日本語        |                翻訳                |
-|:--------------------:|:----------------------------------:|
+| :------------------: | :--------------------------------: |
 |     できるだけ N     |          As N as possible          |
 |    できるだけ早く    |        As fast as possible         |
 |    あなたにとって    |           concerning you           |
@@ -110,3 +119,9 @@
 |         ずつ         |                each                |
 |       二匹ずつ       |         two of each animal         |
 |       どんどん       |        in quick succession         |
+|       ～じゅう       |                for                 |
+|        一年中        |             for 1 year             |
+|       何という       |            called what             |
+|    何というところ    |        a place called what         |
+|         ても         |              even if               |
+|       狭くても       |         even if it's small         |
