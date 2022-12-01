@@ -46,12 +46,15 @@
 |         不足         |         ふそく         |      not enough       |
 |         広場         |         ひろば         |     public square     |
 |      置くところ      |       おくところ       |    place to store     |
+|         航空         |        こうくう        |       airlines        |
+|        事務所        |        じむしょ        |        office         |
 
 ## イ-adjectives
 
-| 日本語 |          翻訳           |
-| :----: | :---------------------: |
-|  古い  | old (non-living things) |
+|   日本語   |          翻訳           |
+| :--------: | :---------------------: |
+|    古い    | old (non-living things) |
+| おとなしい |        obedient         |
 
 ## ナ-adjectives
 
