@@ -889,13 +889,36 @@ Nouns can also be substituted by just a `の`. This reinforces the rule from Cha
 
 ### **Nが 欲しいです**
 
+Used to indicate you want `N`. `欲しい` is an い-adjective.
+
+* 新しい車が欲しいです。
+* 今何が一番欲しいですか。
+* 子供が欲しいですか。
+
 ### **Vますたいです**
+
+Also used to indicated you would like something. However, this form is attached to a verb, not a noun.
 
 ### **N(place)へ (Vます・N)に 行きます・来ます・帰ります**
 
+This sentence pattern is used to say `I'm going to do V at N`.
+
+* 神戸へインドを食べに行きます。
+* 神戸へ買い物に行きます。
+* 日本語へ美術の勉強に来ました。
+
 ### **どこか・何か**
 
+`どこか` means `somewhere` or `anywhere` and is optionally followed by `へ`. `何か` means `something` or `anything` and is optionally followed by `を`.
+
+* 冬休みはどこかへいきますか。
+* 喉が渇きましたから、何か飲みたいです。
+
 ### **ご～**
+
+`ご` or `お` can be used in front of a word to make it more formal/respectful.
+
+* ご注文は。
 
 ## Chapter 14
 
