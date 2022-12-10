@@ -2,15 +2,15 @@
 
 <!-- TOC -->
 
-* [Grammar](#grammar)
-	* [Chapter 2](#chapter-2)
-		* [**Conditional と**](#conditional-%E3%81%A8)
-		* [**し / furthermore**](#%E3%81%97--furthermore)
-		* [**Potential form**](#potential-form)
-		* [**ことができる**](#%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B)
-		* [**たら-form**](#%E3%81%9F%E3%82%89-form)
-		* [**ても**](#%E3%81%A6%E3%82%82)
-		* [**ば-conditional form**](#%E3%81%B0-conditional-form)
+- [Grammar](#grammar)
+	- [Chapter 2](#chapter-2)
+		- [**Conditional と**](#conditional-と)
+		- [**し / furthermore**](#し--furthermore)
+		- [**Potential form**](#potential-form)
+		- [**(こと)ができる**](#ことができる)
+		- [**たら-form**](#たら-form)
+		- [**ても**](#ても)
+		- [**ば-conditional form**](#ば-conditional-form)
 
 <!-- /TOC -->
 
@@ -125,7 +125,9 @@ This is the same form as `てもいい` which just means `even if I do V, is it 
 
 ### **ば-conditional form**
 
-Another conditional form like the `たら`-form. The `ば` in `ならば` is an old form and very rare nowadays.
+> S1 Vば、S2
+
+Another conditional form like the `たら`-form. This form is used more often for facts, `S2` _will_ happen after `S1`. You thus can't use uncertainties in `S2` either i.e. `たぶん`. The `ば` in `ならば` is an old form and very rare nowadays.
 
 > | 動詞型          | ルール              | 動詞         | たとえば         |
 > |-----------------|---------------------|--------------|------------------|
