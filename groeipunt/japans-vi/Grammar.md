@@ -28,13 +28,12 @@
 
 ### **し / furthermore**
 
-> R1し、(R2し、) S  
-> R1し、(R2(から・ので)、) S  
-> S, R1し(、R2し)
+> R1し、(R2(し・から・ので)、) S  
+> S、R1し(、R2し)
 
-Can be used to express `furthermore`, `on top of that`, or to express multiple reasons. `し` implies that there are multiple reasons. The reasons `R1` and `R2` and so on, should be in the informal form.
+Can be used to express `furthermore`, `on top of that`, or to express multiple reasons. `し` implies that there are multiple reasons. The reasons `R1`, `R2`,... should be in the informal form.
 
-This differentiates between the `て`-form and the `たり`-form because the former is a **sequential order of events**, and the latter is a non-exhaustive **enumeration of actions**.
+It's different from the `て`-form and the `たり`-form because the former is a **sequential order of events**, and the latter is a non-exhaustive **enumeration of actions**.
 
 * 友達が遊びに来た**し**、彼と電話で話した**し**、昨日はとってもいい日でした。
 * 娘は、朝ご飯も食べない**し**、熱もあった**から**、学校を休みました。
@@ -62,7 +61,7 @@ This form is used to express that something can be done. They're conjugated the 
 
 When `を` is used as `via` or `through` it is still used.
 
-*　私はあの公園を夜一人で歩けない。
+* 私はあの公園を夜一人で歩けない。
 
 Note that in speech, the `ら` of the `られる` is sometimes dropped.
 
@@ -81,7 +80,7 @@ Note that in speech, the `ら` of the `られる` is sometimes dropped.
 The former is something you intentionally do, the latter just happens to be so.
 
 * 電話で明日天気予報が聞けます。
-* なにも聞こえません。音を大きくしてください。
+* 何も聞こえません。音を大きくしてください。
 
 ### **(こと)ができる**
 
@@ -99,13 +98,13 @@ If the verb `V` is a `する`-verb, you can drop the `をする` and the `こと
 
 ### **たら-form**
 
-Used to say `if A then B`. Just add `ら` after the `た`-form.
+Used to say `if A, then B`. Just add `ら` after the `た`-form.
 
 * 駅に着いたら、電話をします。
 * 12時になったら、昼ごはんを食べます。
 * 先生聞いたら、すぐ分かります。
 
-You can also use `もし` for unrealistic conditions.
+You can also use `もし` for unrealistic conditions or to say `what if`.
 
 * もし田中さんが来たら、私は帰ります。
 
@@ -140,8 +139,8 @@ Another conditional form like the `たら`-form. This form is used more often fo
 > | 不規則動詞      |                     | する         | すれば           |
 > |                 |                     | 来る         | くれば           |
 > | い-adj          | ~~い~~ + ければ     | たかい       | たかければ       |
-> | な-adj          |                     | たかくない   | たかくなければ   |
-> | い-adj くない   | ~~な~~ + なら（ば） | 好きな       | 好きなら（ば）   |
+> | い-adj くない   |                     | たかくない   | たかくなければ   |
+> | な-adj          | ~~な~~ + なら（ば） | 好きな       | 好きなら（ば）   |
 > | な-adj ではない |                     | 好きではない | 好きではなければ |
 > | subst           | + なら（ば）        | 本           | 本なら（ば）     |
 > | subst ではない  | + でなければ        | 本ではない   | 本ではなければ   |

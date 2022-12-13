@@ -27,7 +27,7 @@
 |         線路         |         せんろ         |      train track      |
 |         宝箱         |       たからばこ       |    treasure chest     |
 |         長屋         |         ながや         |       row house       |
-|      うち・いえ      |       うち・いえ       |    home / a house     |
+|          家          |       うち・いえ       |    home / a house     |
 |     スポーツ会館     |    スポーツかんかい    |      sports gym       |
 |       路面電車       |     ろめんでんしゃ     |         tram          |
 |         歳上         |        としうえ        | older (living things) |
@@ -37,7 +37,6 @@
 |        やっと        |         やっと         |        finally        |
 |       引っ越し       |        ひっこし        | a move (from a house) |
 | 知り合ったばかりの人 | しりあったばかりのひと | someone you just met  |
-|         給料         |      きゅうりょう      |        salary         |
 |         市内         |         しない         |      in the city      |
 |         以上         |        いじょう        |         above         |
 |         以下         |          いか          |         under         |
