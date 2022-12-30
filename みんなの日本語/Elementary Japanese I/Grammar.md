@@ -25,148 +25,148 @@
     - [**The こ・そ・あ・ど system of demonstratives**](#the-こそあど-system-of-demonstratives)
     - [**お～**](#お-1)
   - [Chapter 4](#chapter-4)
-    - [今 X時 Y分 です](#今-x時-y分-です)
-    - [V ます・V ません・V ました・Vませんでした](#v-ますv-ませんv-ましたvませんでした)
-    - [N (time) に V](#n-time-に-v)
-    - [N1 から N2 まで](#n1-から-n2-まで)
-    - [N1 と N2](#n1-と-n2)
-    - [～ね](#ね)
+    - [**今 X時 Y分 です**](#今-x時-y分-です)
+    - [**V ます・V ません・V ました・Vませんでした**](#v-ますv-ませんv-ましたvませんでした)
+    - [**N (time) に V**](#n-time-に-v)
+    - [**N1 から N2 まで**](#n1-から-n2-まで)
+    - [**N1 と N2**](#n1-と-n2)
+    - [**～ね**](#ね)
   - [Chapter 5](#chapter-5)
-    - [N (place) へ 行きます・来ます・帰ります](#n-place-へ-行きます来ます帰ります)
-    - [どこ[へ]も 行きません・行きませんでした](#どこへも-行きません行きませんでした)
-    - [N (vehicle) で行きます・来ます・帰ります](#n-vehicle-で行きます来ます帰ります)
-    - [N (person/animal) と V](#n-personanimal-と-v)
-    - [いつ](#いつ)
-    - [～よ](#よ)
-    - [そうですね](#そうですね)
+    - [**N (place) へ 行きます・来ます・帰ります**](#n-place-へ-行きます来ます帰ります)
+    - [**どこ\[へ\]も 行きません・行きませんでした**](#どこへも-行きません行きませんでした)
+    - [**N (vehicle) で行きます・来ます・帰ります**](#n-vehicle-で行きます来ます帰ります)
+    - [**N (person/animal) と V**](#n-personanimal-と-v)
+    - [**いつ**](#いつ)
+    - [**～よ**](#よ)
+    - [**そうですね**](#そうですね)
   - [Chapter 6](#chapter-6)
-    - [Nを V(transitive)](#nを-vtransitive)
-    - [Nを します](#nを-します)
-    - [何を しますか](#何を-しますか)
-    - [なん and なに](#なん-and-なに)
-    - [N(place)で V](#nplaceで-v)
-    - [Vませんか](#vませんか)
-    - [Vましょう](#vましょう)
-    - [～か](#か)
+    - [**Nを V(transitive)**](#nを-vtransitive)
+    - [**Nを します**](#nを-します)
+    - [**何を しますか**](#何を-しますか)
+    - [**なん and なに**](#なん-and-なに)
+    - [**N(place)で V**](#nplaceで-v)
+    - [**Vませんか**](#vませんか)
+    - [**Vましょう**](#vましょう)
+    - [**～か**](#か)
   - [Chapter 7](#chapter-7)
-    - [N(tool/means)で V](#ntoolmeansで-v)
-    - [(Word・sentence)は ～語で 何ですか](#wordsentenceは-語で-何ですか)
-    - [N1(person)に N2を あげます・貸します・教えます](#n1personに-n2を-あげます貸します教えます)
-    - [N1(person)に N2を もらいます・借ります・習います](#n1personに-n2を-もらいます借ります習います)
-    - [もう Vました](#もう-vました)
-    - [Omission of particles](#omission-of-particles)
+    - [**N(tool/means)で V**](#ntoolmeansで-v)
+    - [**(Word・sentence)は ～語で 何ですか**](#wordsentenceは-語で-何ですか)
+    - [**N1(person)に N2を あげます・貸します・教えます**](#n1personに-n2を-あげます貸します教えます)
+    - [**N1(person)に N2を もらいます・借ります・習います**](#n1personに-n2を-もらいます借ります習います)
+    - [**もう Vました**](#もう-vました)
+    - [**Omission of particles**](#omission-of-particles)
   - [Chapter 8](#chapter-8)
-    - [Adjectives](#adjectives)
-    - [Nは な-adj です・Nは い-adj です](#nは-な-adj-ですnは-い-adj-です)
-    - [な-adj N・い-adj N](#な-adj-nい-adj-n)
-    - [～が、～](#が)
-    - [とても・あまり](#とてもあまり)
-    - [Nは どうですか](#nは-どうですか)
-    - [N1は どんなN2 ですか](#n1は-どんなn2-ですか)
-    - [そうですね](#そうですね-1)
+    - [**Adjectives**](#adjectives)
+    - [**Nは な-adj です・Nは い-adj です**](#nは-な-adj-ですnは-い-adj-です)
+    - [**な-adj N・い-adj N**](#な-adj-nい-adj-n)
+    - [**～が、～**](#が)
+    - [**とても・あまり**](#とてもあまり)
+    - [**Nは どうですか**](#nは-どうですか)
+    - [**N1は どんなN2 ですか**](#n1は-どんなn2-ですか)
+    - [**そうですね**](#そうですね-1)
   - [Chapter 9](#chapter-9)
-    - [Nが (あります・わかります)・Nが (好きです・嫌いです・上手です・下手です)](#nが-ありますわかりますnが-好きです嫌いです上手です下手です)
-    - [どんな N](#どんな-n)
-    - [よく・たいだい・たくさん・少し・あまり・全然](#よくたいだいたくさん少しあまり全然)
-    - [C1から、C2](#c1からc2)
-    - [どうして](#どうして)
+    - [**Nが (あります・わかります)・Nが (好きです・嫌いです・上手です・下手です)**](#nが-ありますわかりますnが-好きです嫌いです上手です下手です)
+    - [**どんな N**](#どんな-n)
+    - [**よく・たいだい・たくさん・少し・あまり・全然**](#よくたいだいたくさん少しあまり全然)
+    - [**C1から、C2**](#c1からc2)
+    - [**どうして**](#どうして)
   - [Chapter 10](#chapter-10)
-    - [Nが あります・います](#nが-ありますいます)
-    - [Placeに Nが あります・います](#placeに-nが-ありますいます)
-    - [Nは placeに あります・います](#nは-placeに-ありますいます)
-    - [N1(thing・person・place)の N2(position)](#n1thingpersonplaceの-n2position)
-    - [N1や N2(など)](#n1や-n2など)
-    - [Confirmation instead of answering](#confirmation-instead-of-answering)
+    - [**Nが あります・います**](#nが-ありますいます)
+    - [**Placeに Nが あります・います**](#placeに-nが-ありますいます)
+    - [**Nは placeに あります・います**](#nは-placeに-ありますいます)
+    - [**N1(thing・person・place)の N2(position)**](#n1thingpersonplaceの-n2position)
+    - [**N1や N2(など)**](#n1や-n2など)
+    - [**Confirmation instead of answering**](#confirmation-instead-of-answering)
   - [Chapter 11](#chapter-11)
-    - [How to say numbers](#how-to-say-numbers)
-    - [How to use quantifiers](#how-to-use-quantifiers)
-    - [Time period quantifier に 一回 V](#time-period-quantifier-に-一回-v)
-    - [(quantifier・N)だけ](#quantifiernだけ)
+    - [**How to say numbers**](#how-to-say-numbers)
+    - [**How to use quantifiers**](#how-to-use-quantifiers)
+    - [**Time period quantifier に 一回 V**](#time-period-quantifier-に-一回-v)
+    - [**(quantifier・N)だけ**](#quantifiernだけ)
   - [Chapter 12](#chapter-12)
-    - [Tense and affirmative/negative forms of な-adj sentences](#tense-and-affirmativenegative-forms-of-な-adj-sentences)
-    - [Tense and affirmative/negative forms of い-adj sentences](#tense-and-affirmativenegative-forms-of-い-adj-sentences)
-    - [N1は N2より adjです](#n1は-n2より-adjです)
-    - [N1と N2と どちらが adjですか N1・N2のほうが です](#n1と-n2と-どちらが-adjですか-n1n2のほうが-です)
-    - [N [の中]で (なに・どこ・だれ・いつ)が いちばん adjですか](#n-の中で-なにどこだれいつが-いちばん-adjですか)
-    - [Adjの (の substituting for a noun)](#adjの-の-substituting-for-a-noun)
+    - [**Tense and affirmative/negative forms of な-adj sentences**](#tense-and-affirmativenegative-forms-of-な-adj-sentences)
+    - [**Tense and affirmative/negative forms of い-adj sentences**](#tense-and-affirmativenegative-forms-of-い-adj-sentences)
+    - [**N1は N2より adjです**](#n1は-n2より-adjです)
+    - [**N1と N2と どちらが adjですか N1・N2のほうが です**](#n1と-n2と-どちらが-adjですか-n1n2のほうが-です)
+    - [**N \[の中\]で (なに・どこ・だれ・いつ)が いちばん adjですか**](#n-の中で-なにどこだれいつが-いちばん-adjですか)
+    - [**Adjの (の substituting for a noun)**](#adjの-の-substituting-for-a-noun)
   - [Chapter 13](#chapter-13)
-    - [Nが 欲しいです](#nが-欲しいです)
-    - [Vますたいです](#vますたいです)
-    - [N(place)へ (Vます・N)に 行きます・来ます・帰ります](#nplaceへ-vますnに-行きます来ます帰ります)
-    - [どこか・何か](#どこか何か)
-    - [ご～](#ご)
+    - [**Nが 欲しいです**](#nが-欲しいです)
+    - [**Vますたいです**](#vますたいです)
+    - [**N(place)へ (Vます・N)に 行きます・来ます・帰ります**](#nplaceへ-vますnに-行きます来ます帰ります)
+    - [**どこか・何か**](#どこか何か)
+    - [**ご～**](#ご)
   - [Chapter 14](#chapter-14)
-    - [Verb groups](#verb-groups)
-    - [V て-form](#v-て-form)
-    - [Vて ください](#vて-ください)
-    - [Vて います](#vて-います)
-    - [Vます ましょうか](#vます-ましょうか)
-    - [Nが V](#nが-v)
-    - [すみませんが](#すみませんが)
+    - [**Verb groups**](#verb-groups)
+    - [**V て-form**](#v-て-form)
+    - [**Vて ください**](#vて-ください)
+    - [**Vて います**](#vて-います)
+    - [**Vます ましょうか**](#vます-ましょうか)
+    - [**Nが V**](#nが-v)
+    - [**すみませんが**](#すみませんが)
   - [Chapter 15](#chapter-15)
-    - [Vても いいですか](#vても-いいですか)
-    - [Vては いけません](#vては-いけません)
-    - [Vて います](#vて-います-1)
-    - [Nに V](#nに-v)
-    - [N1に N2を V](#n1に-n2を-v)
+    - [**Vても いいですか**](#vても-いいですか)
+    - [**Vては いけません**](#vては-いけません)
+    - [**Vて います**](#vて-います-1)
+    - [**Nに V**](#nに-v)
+    - [**N1に N2を V**](#n1に-n2を-v)
   - [Chapter 16](#chapter-16)
-    - [How to join >= two sentences together](#how-to-join--two-sentences-together)
-    - [V1て から、V2](#v1て-からv2)
-    - [N1は N2が adj](#n1は-n2が-adj)
-    - [Nを V](#nを-v)
-    - [どうやって](#どうやって)
-    - [どれ・どの N](#どれどの-n)
+    - [**How to join \>= two sentences together**](#how-to-join--two-sentences-together)
+    - [**V1て から、V2**](#v1て-からv2)
+    - [**N1は N2が adj**](#n1は-n2が-adj)
+    - [**Nを V**](#nを-v)
+    - [**どうやって**](#どうやって)
+    - [**どれ・どの N**](#どれどの-n)
   - [Chapter 17](#chapter-17)
-    - [V ない-form](#v-ない-form)
-    - [Vない ないで ください](#vない-ないで-ください)
-    - [Vない なければ なりません](#vない-なければ-なりません)
-    - [Vない なくても いいです](#vない-なくても-いいです)
-    - [Making an object the topic of a sentence](#making-an-object-the-topic-of-a-sentence)
-    - [N(time) までに V](#ntime-までに-v)
+    - [**V ない-form**](#v-ない-form)
+    - [**Vない ないで ください**](#vない-ないで-ください)
+    - [**Vない なければ なりません**](#vない-なければ-なりません)
+    - [**Vない なくても いいです**](#vない-なくても-いいです)
+    - [**Making an object the topic of a sentence**](#making-an-object-the-topic-of-a-sentence)
+    - [**N(time) までに V**](#ntime-までに-v)
   - [Chapter 18](#chapter-18)
-    - [Dictionary form of verbs](#dictionary-form-of-verbs)
-    - [(N・V-dictこと)が できます](#nv-dictことが-できます)
-    - [私の趣味は (N・V-dictこと)です](#私の趣味は-nv-dictことです)
-    - [(V1-dict・Nの・time quantifier)前に、V2](#v1-dictnのtime-quantifier前にv2)
-    - [なかなか](#なかなか)
-    - [ぜひ](#ぜひ)
+    - [**Dictionary form of verbs**](#dictionary-form-of-verbs)
+    - [**(N・V-dictこと)が できます**](#nv-dictことが-できます)
+    - [**私の趣味は (N・V-dictこと)です**](#私の趣味は-nv-dictことです)
+    - [**(V1-dict・Nの・time quantifier)前に、V2**](#v1-dictnのtime-quantifier前にv2)
+    - [**なかなか**](#なかなか)
+    - [**ぜひ**](#ぜひ)
   - [Chapter 19](#chapter-19)
-    - [V た-form](#v-た-form)
-    - [Vたことが あります](#vたことが-あります)
-    - [V1たり、V2たり します](#v1たりv2たり-します)
-    - [(いadjく・なadjに・Nに) なります](#いadjくなadjにnに-なります)
+    - [**V た-form**](#v-た-form)
+    - [**Vたことが あります**](#vたことが-あります)
+    - [**V1たり、V2たり します**](#v1たりv2たり-します)
+    - [**(いadjく・なadjに・Nに) なります**](#いadjくなadjにnに-なります)
   - [Chapter 20](#chapter-20)
-    - [Polite style and plain style](#polite-style-and-plain-style)
-    - [Proper use of the polite style or plain style](#proper-use-of-the-polite-style-or-plain-style)
-    - [Conversation in plain style](#conversation-in-plain-style)
+    - [**Polite style and plain style**](#polite-style-and-plain-style)
+    - [**Proper use of the polite style or plain style**](#proper-use-of-the-polite-style-or-plain-style)
+    - [**Conversation in plain style**](#conversation-in-plain-style)
   - [Chapter 21](#chapter-21)
-    - [plainと 思います](#plainと-思います)
-    - [(plain・sentence) と言います](#plainsentence-と言います)
-    - [(V・adj・N) plain でしょう？](#vadjn-plain-でしょう)
-    - [N1 (place)で N2が あります](#n1-placeで-n2が-あります)
-    - [N (occasion)で](#n-occasionで)
-    - [Nでも V](#nでも-v)
-    - [Vない と](#vない-と)
+    - [**plainと 思います**](#plainと-思います)
+    - [**(plain・sentence) と言います**](#plainsentence-と言います)
+    - [**(V・adj・N) plain でしょう？**](#vadjn-plain-でしょう)
+    - [**N1 (place)で N2が あります**](#n1-placeで-n2が-あります)
+    - [**N (occasion)で**](#n-occasionで)
+    - [**Nでも V**](#nでも-v)
+    - [**Vない と**](#vない-と)
   - [Chapter 22](#chapter-22)
-    - [Noun modification](#noun-modification)
-    - [V-dict 時間・約束・幼児](#v-dict-時間約束幼児)
-    - [Vます ましょうか](#vます-ましょうか-1)
+    - [**Noun modification**](#noun-modification)
+    - [**V-dict 時間・約束・幼児**](#v-dict-時間約束幼児)
+    - [**Vます ましょうか**](#vます-ましょうか-1)
   - [Chapter 23](#chapter-23)
-    - [(V-dict・Vない・adj・Nの)とき、～ main clause](#v-dictvないadjnのとき-main-clause)
-    - [(V-dict・Vた) とき、～ main clause](#v-dictvた-とき-main-clause)
-    - [V-dict と、～ main clause](#v-dict-と-main-clause)
-    - [Nが adj](#nが-adj)
-    - [Nを motion V](#nを-motion-v)
+    - [**(V-dict・Vない・adj・Nの)とき、～ main clause**](#v-dictvないadjnのとき-main-clause)
+    - [**(V-dict・Vた) とき、～ main clause**](#v-dictvた-とき-main-clause)
+    - [**V-dict と、～ main clause**](#v-dict-と-main-clause)
+    - [**Nが adj**](#nが-adj)
+    - [**Nを motion V**](#nを-motion-v)
   - [Chapter 24](#chapter-24)
-    - [くれます](#くれます)
-    - [Vて (あげます・もらいます・くれます)](#vて-あげますもらいますくれます)
-    - [N1は N2が V](#n1は-n2が-v)
+    - [**くれます**](#くれます)
+    - [**Vて (あげます・もらいます・くれます)**](#vて-あげますもらいますくれます)
+    - [**N1は N2が V**](#n1は-n2が-v)
   - [Chapter 25](#chapter-25)
-    - [Plain past form ら、～ main clause](#plain-past-form-ら-main-clause)
-    - [Vた ら、～ main clause](#vた-ら-main-clause)
-    - [(N・adj・て・ない) も、～](#nadjてない-も)
-    - [もし](#もし)
-    - [Subject of a subordinate clause](#subject-of-a-subordinate-clause)
+    - [**Plain past form ら、～ main clause**](#plain-past-form-ら-main-clause)
+    - [**Vた ら、～ main clause**](#vた-ら-main-clause)
+    - [**(N・adj・て・ない) も、～**](#nadjてない-も)
+    - [**もし**](#もし)
+    - [**Subject of a subordinate clause**](#subject-of-a-subordinate-clause)
 
 ## Chapter 1
 
@@ -924,43 +924,128 @@ This sentence pattern is used to say `I'm going to do V at N`.
 
 ### **Verb groups**
 
+As known, there are three verb groups
+
 ### **V て-form**
+
+As known, there is the `て` form.
 
 ### **Vて ください**
 
+It can be used to ask `Please do`.
+
 ### **Vて います**
+
+Or to indicate a certain action or motion that is in progress.
 
 ### **Vます ましょうか**
 
+Used to ask `Shall I...`. Just change the `す` in the `ます` form to `ましょうか`.
+
 ### **Nが V**
 
+When describing a phenomenon that was felt through one of the five senses or when telling someone objectively about an event, the subject is marked by が.
+
+* 雨が降っています。
+* ミラーさんがいませんね。
+
 ### **すみませんが**
+
+Used to say `Excuse me but,...`, a casual preamble to a remark.
+
+* すみませんが、塩を取ってください。
+* 
 
 ## Chapter 15
 
 ### **Vても いいですか**
 
+Used to ask whether you may do something.
+
+* 写真を撮ってもいいですか。
+* ここでタバコを吸ってもいいですか。
+
 ### **Vては いけません**
+
+Used to express prohibition: `You must not do ...`.
+
+* ここでタバコを吸ってはいけません、禁煙ですから。
 
 ### **Vて います**
 
+Can also be used to express habits or continual states of being.
+
+* 私は結婚しています。
+* 市役所の電話番号を知っていますか。
+* 妹は大学で勉強しています。
+
 ### **Nに V**
 
+Used with verbs like `入ります`, `座ります`, `乗ります` and `付けます`. to indicated the location of the subject resulting from the action expressed by the verb.
+
+* ここに入ってはいけません。
+* ここに座ってもいいですか。
+* 京都駅から１６番のバスに乗ってください。
+
 ### **N1に N2を V**
+
+The particle `に` indicates the location `N1` of `N2` as the result of an action.
+
+* ここに車を止めってください。
+* ここに住所を書いてください。
 
 ## Chapter 16
 
 ### **How to join >= two sentences together**
 
+Two join two sentences together, use the `て` form. Note that the actions joined together have to happen subsequently and that the tense is determined by the conjugation of the last verb. Note that the sentences can't be contrasting. If they are, use `が` or `けど`.
+
+* 朝ジョギンぐをして、しゃわを浴びて、仕事へ行きます。
+* 昨日天気が良くて暑かったです。
+* 奈良は静かできれいな街です。
+* カリナはインドネシア人で、富士大の留学せいです。
+
 ### **V1て から、V2**
+
+Expresses that `V2` happens after `V1`. `V1` is often a precondition or a preparation to `V2`. The tense is again determined by the last verb.
+
+* お金を入れってから、ボタンを押してくさい。
+
+The subject of `てから` is marked with the particle `が`.
+
+* もう昼ご飯を食べましたか。
+  * この仕事が終わってから、食べます。
 
 ### **N1は N2が adj**
 
+Indicates that `N` has the characteristic `N2が adj`.
+
+* 大阪は食べ物がおいしいです。
+* ドイツのフランケンはワインが有名です。
+* マリアは髪が長いです。
+
 ### **Nを V**
+
+Verbs such as `出ます` and `おります` are used together with `を` to indicate a starting point.
+
+* ７時に家を出ます。
+* 梅田で電車を降ります。
 
 ### **どうやって**
 
+Used to ask the way or how to do something.
+
+* 大学までどうやって行きますか。
+
 ### **どれ・どの N**
+
+Used to ask someone to specify one item out of a list of > 3.
+
+* ミラーさんの傘はどれですか。
+
+`どれ` can't modify a noun, then we should use `どの`.
+
+* サントスさんはどの人ですか。
 
 ## Chapter 17
 
