@@ -124,7 +124,6 @@
     - [**Making an object the topic of a sentence**](#making-an-object-the-topic-of-a-sentence)
     - [**N(time) までに V**](#ntime-までに-v)
   - [Chapter 18](#chapter-18)
-    - [**Dictionary form of verbs**](#dictionary-form-of-verbs)
     - [**(N・V-dictこと)が できます**](#nv-dictことが-できます)
     - [**私の趣味は (N・V-dictこと)です**](#私の趣味は-nv-dictことです)
     - [**(V1-dict・Nの・time quantifier)前に、V2**](#v1-dictnのtime-quantifier前にv2)
@@ -1051,29 +1050,81 @@ Used to ask someone to specify one item out of a list of > 3.
 
 ### **V ない-form**
 
+The verb form that attaches to `ない` e.g. `かか` for `かかない`.
+
 ### **Vない ないで ください**
+
+Used to ask someone to please not do something `V`.
+
+* ここで写真を撮らないでください。
+* 私は元気ですから、心配しないでください。
 
 ### **Vない なければ なりません**
 
+Used to say something `V` must be done.
+
+* 薬を飲まなければなりません。
+
 ### **Vない なくても いいです**
+
+Used to say that something `V` is not necessary.
+
+* 明日来なくてもいいです。
 
 ### **Making an object the topic of a sentence**
 
+You can place a noun at the beginning of the sentence to make it the topic of the sentence.
+
+* ここに荷物を置かないでください。
+  * 荷物はここに置かないでください。
+* 会社の食堂で昼ご飯を食べます。
+* 昼ご飯は会社の食堂を食べます。
+
 ### **N(time) までに V**
+
+Used to indicate a time `N` by which an event will end or an action `V` must be completed.
+
+* 会議は五時までに終わります。
+* 土曜日まで日本を返さなければなりません。
 
 ## Chapter 18
 
-### **Dictionary form of verbs**
-
 ### **(N・V-dictこと)が できます**
+
+Used to say that you can do something `N` or `V`.
+
+* ミラーさんは日本語ができます。
+* 雪はたくさんが降りましたから、今年スキーができます。
+* カードで払うことができます。
 
 ### **私の趣味は (N・V-dictこと)です**
 
+Used to mention your habits.
+
+* 私の趣味は音楽です。
+* 私の炭は音楽を聞くことです。
+
 ### **(V1-dict・Nの・time quantifier)前に、V2**
+
+Used to say that something `V1`・`N` is done before `V2`.
+
+* 日本へくる前に、日本語を勉強しました。
+* 寝る前に、本を読みます。
+* 食事の前に、手を洗います。
+* たなかさんは一時間前に、出かけました。
 
 ### **なかなか**
 
+Means `not easy` when followed by a negative expression.
+
+* 日本ではなかなかうまが見ることができません。
+
 ### **ぜひ**
+
+Used by speakers to intensify their expressions of hope.
+
+* ぜひ北海道へ行きたいです。
+* ぜひ遊びに来て下さい。
 
 ## Chapter 19
 

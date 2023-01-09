@@ -30,7 +30,7 @@
 |          家          |       うち・いえ       |    home / a house     |
 |     スポーツ会館     |    スポーツかんかい    |      sports gym       |
 |       路面電車       |     ろめんでんしゃ     |         tram          |
-|         歳上         |        としうえ        | older (living things) |
+|         年上         |        としうえ        | older (living things) |
 |        奨学金        |     しょうがくきん     |      scholarship      |
 |         セミ         |          せみ          |        cicada         |
 |          鶏          |        にわとり        |        chicken        |
