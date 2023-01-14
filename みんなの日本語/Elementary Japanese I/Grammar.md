@@ -953,7 +953,6 @@ When describing a phenomenon that was felt through one of the five senses or whe
 Used to say `Excuse me but,...`, a casual preamble to a remark.
 
 * すみませんが、塩を取ってください。
-* 
 
 ## Chapter 15
 
@@ -1130,23 +1129,73 @@ Used by speakers to intensify their expressions of hope.
 
 ### **V た-form**
 
+Like the `て` form, but with `た`.
+
 ### **Vたことが あります**
+
+Used to ask whether someone ever has done something `V` before.
+
+* 馬に乗ったことがありますか。
+* 日本行ったことがありますか。
+* 馬を食べたことがありますか。
+
+Note that the past tense is used when you want to mention something that happend in the past.
+
+* 去年北海道で馬に乗りました。
 
 ### **V1たり、V2たり します**
 
+Used in the same way as `や` with nouns to **non-exhaustively** enumerate actions `V1`, `V2`,... . It **doesn't imply any order** like the `て`-form does.
+
+* 日曜日はテニスをしたり、映画を見たりします。
+
+The tense of the sentence is shown by the verb at the end.
+
+* 日曜日はテニスをしたり、映画を見たりしました。
+
 ### **(いadjく・なadjに・Nに) なります**
+
+Used to say that it became something `N`.
+
+> | 類     | ルール          | 元     | たとえば         |
+> | ------ | --------------- | ------ | ---------------- |
+> | い-adj | ~~い~~ + くなる | 寒い   | 寒くなります     |
+> | な-adj | ~~な~~ + になる | 元気な | 元気になります   |
+> | Noun   | N + になる      | 25歳   | ２５歳になります |
 
 ## Chapter 20
 
 ### **Polite style and plain style**
 
+Using `です` with adjectives and the `ます` form for verbs makes them polite.
+
 ### **Proper use of the polite style or plain style**
 
+The polite form is used to speak to
+
+* people you met for the first time.
+* someone of higher status
+* people in a similar age group that you don't know well
+
+It's also used in letters.
+
+The plain style is used when speaking to
+
+* close friends
+* colleagues
+* family
+
+It's also used for dissertations, reports, and diaries.
+
 ### **Conversation in plain style**
+
+Questions usually drop the ending `か` and instead pronouncing with a rising intonation as in other languages. Ending sentences or nouns with `だ` could sound harsh so it's usually omitted. Particles such as `を`, `へ`, `は`, and `が` are often omitted as their meaning is clear. `けど` is used instead of `が` to indicate contrast.
 
 ## Chapter 21
 
 ### **plainと 思います**
+
+
 
 ### **(plain・sentence) と言います**
 
