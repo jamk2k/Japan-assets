@@ -1139,7 +1139,7 @@ Used to ask whether someone ever has done something `V` before.
 * 日本行ったことがありますか。
 * 馬を食べたことがありますか。
 
-Note that the past tense is used when you want to mention something that happend in the past.
+Note that the past tense is used when you want to mention something that happened in the past.
 
 * 去年北海道で馬に乗りました。
 
@@ -1264,7 +1264,7 @@ Used instead of `ないといけません` to mention that you must do something
 
 ### **Noun modification**
 
-Nouns can be modified by using `の` or placing an adjective in front of it. However, they can also be modified by a subclause. This clause should be informal
+Nouns can be modified by using `の` or placing an adjective in front of it. However, they can also be modified by a subclause. This clause should be informal.
 
 * 京都へ行く人
 * 京都へ行った人
@@ -1282,7 +1282,7 @@ The subject of a noun-modifying subclause is marked by `が`
 
 ### **V-dict 時間・約束・幼児**
 
-To indicate the time required to do something or to describe an appointment, errand,... use an informal verb + `時間・約束・幼児`
+To indicate the time required to do something or to describe an appointment, errand,... use an informal verb + `時間・約束・幼児`.
 
 * 私は朝ご飯を食べる時間がありません。
 * 友達と映画を見る約束があります。
