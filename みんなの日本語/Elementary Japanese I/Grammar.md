@@ -157,9 +157,8 @@
     - [**Nが adj**](#nが-adj)
     - [**Nを motion V**](#nを-motion-v)
   - [Chapter 24](#chapter-24)
-    - [**くれます**](#くれます)
+    - [**N1は N2にくれます**](#n1は-n2にくれます)
     - [**Vて (あげます・もらいます・くれます)**](#vて-あげますもらいますくれます)
-    - [**N1は N2が V**](#n1は-n2が-v)
   - [Chapter 25](#chapter-25)
     - [**Plain past form ら、～ main clause**](#plain-past-form-ら-main-clause)
     - [**Vた ら、～ main clause**](#vた-ら-main-clause)
@@ -1299,25 +1298,72 @@ This form can be used to ask whether you should do something for someone else, b
 
 ### **(V-dict・Vない・adj・Nの)とき、～ main clause**
 
+Uses the same structure as when modifying a noun. Always uses the informal form. The tense of the sentence and subclause are independent.
+
+* 図書館で本を借りるとき、カードが要ります。
+* 使い方がわからないとき、私に聞いてください。
+* 子供の時、よく川で泳ぎました。
+
 ### **(V-dict・Vた) とき、～ main clause**
+
+When the verb `V` is in the dictionary form, the main clause happened before the subclause. If the verb `V` is in the `た` form, the main clause happened after the subclause.
+
+* パリスへ行くとき、カバンを買いました。
+  * I bought a bag when going to Paris. (bought before arriving in Paris)
+* パリスへ行った時、カバンを買いました。
+  * I bought a bag when I went to Paris. (bought in Paris)
 
 ### **V-dict と、～ main clause**
 
+This is the conditional `と`. It's mostly used for facts as the main clause will inevitably occur when `V`.
+
+* このボタンを押すと、お釣りが出ます。
+* これを回すと、音が大きくなります。
+* 右を曲がると、郵便局があります。
+
 ### **Nが adj**
+
+`が` can also be used with adjective sentences, not only for sentences describing what you can monitor with the five senses.
+
+* 音が地裁です。
 
 ### **Nを motion V**
 
+`を` can be used with a motion verb `V` to indicate that we're passing through something `N`.
+
+* 公園を散歩します。
+* 道を渡ります。
+* 交差点を右へ曲がります。
+
 ## Chapter 24
 
-### **くれます**
+### **N1は N2にくれます**
+
+When we want to say that someone (not me) `N1` gave something to someone else `N2`, you can't use `あげます` but you have to use `くれます`.
+
+* 私は佐藤さんイ花を上げました。
+* 佐藤さんは私にクリスマスカードをくれました。
+* 佐藤さんは私の妹にお菓子をくれました。
 
 ### **Vて (あげます・もらいます・くれます)**
 
-### **N1は N2が V**
+`てあげます` is used when the receiver of the action benefits from the action. It's best **not to use this towards someone of higher status** as it could sound condescending. _Someone did the receiver a favor._
+
+* 私は木村さんに歩を貸してあげました。
+
+`てもらいます` is used when it's felt that the receiver of the action benefits from it. _Someone helped the receiver out._
+
+* 私は山田に図書館の電話番後をもらいました。
+
+`てくれます` is used when the speaker feels that the receiver benefitted from the action. _Someone did something especially for the receiver._
+
+* 母は（私に）セターを送ってくれました。
 
 ## Chapter 25
 
 ### **Plain past form ら、～ main clause**
+
+
 
 ### **Vた ら、～ main clause**
 
