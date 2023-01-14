@@ -1264,9 +1264,36 @@ Used instead of `ないといけません` to mention that you must do something
 
 ### **Noun modification**
 
+Nouns can be modified by using `の` or placing an adjective in front of it. However, they can also be modified by a subclause. This clause should be informal
+
+* 京都へ行く人
+* 京都へ行った人
+* 背が高くて、髪が黒い人
+* ６５歳のひと
+* 親切できれいな人
+* これはミラーさんが住んでいた内です。
+* ミラーさんが住んでいたうちは猫がいました。
+
+The subject of a noun-modifying subclause is marked by `が`
+
+* これはミラーさんが作ったケーキです。
+* 私はカリナが描いた映画が好きです。
+* 彼が生まれた場所が知ってますか。
+
 ### **V-dict 時間・約束・幼児**
 
+To indicate the time required to do something or to describe an appointment, errand,... use an informal verb + `時間・約束・幼児`
+
+* 私は朝ご飯を食べる時間がありません。
+* 友達と映画を見る約束があります。
+* 今日は市役所へ行く用事があります。
+
 ### **Vます ましょうか**
+
+This form can be used to ask whether you should do something for someone else, but also to query whether you should do something together.
+
+* この部屋、今日は見ることができますか。
+  * ええ。今から行きましょうか。
 
 ## Chapter 23
 
