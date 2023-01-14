@@ -145,7 +145,7 @@
     - [**N1 (place)で N2が あります**](#n1-placeで-n2が-あります)
     - [**N (occasion)で**](#n-occasionで)
     - [**Nでも V**](#nでも-v)
-    - [**Vない と**](#vない-と)
+    - [**Vない と...**](#vない-と)
   - [Chapter 22](#chapter-22)
     - [**Noun modification**](#noun-modification)
     - [**V-dict 時間・約束・幼児**](#v-dict-時間約束幼児)
@@ -1195,19 +1195,70 @@ Questions usually drop the ending `か` and instead pronouncing with a rising in
 
 ### **plainと 思います**
 
+This form is used to express hypotheses.
 
+* 明日は雨が降ると思います。
+* てれーさちゃんはもう練ったと思いす。
+* ミラーさんはニュースを知っていますか。
+  * いいえ、知らないと思います。
+
+It can also be used to state your opinion.
+
+* 日本は物価が高いと思います。
+
+To ask someone's opinion, use `N についてどう思いますか`
+
+* 新しい空港についてどう思いますか。
+  * 綺麗ですが、ちょっと交通が不便だと思います。
+
+To agree with someone, use `私もそう思います`. Note that `も` is a particle and thus can't stand by itself.
+
+* ケータイは便利ですね。
+  * はい、私もそう思います。
 
 ### **(plain・sentence) と言います**
 
+Used to report what was said. Either you quote verbatim and add `と言います`, or you change the verb to the informal form and add `と言います`. In case of the latter, the tense of the sentence doesn't affect the tense of the quote.
+
+* 寝る前に「お休みなさい」と言います。
+* ミラーさんは「来週東京に出張をします」と言いました。
+* ミラーさんは来週東京に出張をすると言いました。
+
+The particle `` is used to indicate the person spoken to.
+
+* 父に留学したいと言いました。
+
 ### **(V・adj・N) plain でしょう？**
+
+Spoken with a rising intonation, this pattern is used to ask confirmation or to seek agreement from the listener. For nouns and `な` adjectives, we don't add `だ`.
+
+* 明日パーティーに行くでしょう。
+* 北海道は寒かったでしょう。
 
 ### **N1 (place)で N2が あります**
 
+Can be used to indicate that an event, ceremony,... `N1` takes place at a certain location `N2`.
+
+* 東京で日本対ブラジルサッカー試合があります。
+
 ### **N (occasion)で**
+
+This is the place marking `で`.
+
+* 会議で何か意見を言いますか。
 
 ### **Nでも V**
 
-### **Vない と**
+Used when recommending, suggesting, or expressing hope for something `N`, `でも` is used to give an example, without restricting to just that one.
+
+* ちょっとビールでも飲みませんか。
+  * How about drinking a beer or something.
+
+### **Vない と...**
+
+Used instead of `ないといけません` to mention that you must do something.
+
+* もう帰らないと...
 
 ## Chapter 22
 
