@@ -162,7 +162,7 @@
   - [Chapter 25](#chapter-25)
     - [**Plain past form ら、～ main clause**](#plain-past-form-ら-main-clause)
     - [**Vた ら、～ main clause**](#vた-ら-main-clause)
-    - [**(N・adj・て・ない) も、～**](#nadjてない-も)
+    - [**(N・adj・V・ない)ても、～ main clause**](#nadjvないても-main-clause)
     - [**もし**](#もし)
     - [**Subject of a subordinate clause**](#subject-of-a-subordinate-clause)
 
@@ -1363,12 +1363,40 @@ When we want to say that someone (not me) `N1` gave something to someone else `N
 
 ### **Plain past form ら、～ main clause**
 
+The `たら` form is a conditional like the `ば` form. Just add `ら` to the `た` form.
 
+* お金があったら、旅行をします。
+* 時間がなかったら、テレビを見ません。
+* 安かったら、パソコンを買いたい。
+* 暇だたら、手伝ってください。
+* いい天気だったら、散歩しませんか。
 
 ### **Vた ら、～ main clause**
 
-### **(N・adj・て・ない) も、～**
+Used to express that a certain action will be done or situation will arise when a something is completed or a certain state is achieved. This is similar to `When...`, `After...`, or `Once...`.
+
+* １０時になったら、出かけましょう。
+* うちへ変えたら、シャワーを浴びます。
+
+### **(N・adj・V・ない)ても、～ main clause**
+
+When the `て` form is combined with `も` it indicates `even if`.
+
+* 雨が降っても、洗濯します。
+* 安くても、私はグループ旅行が嫌いです。
+* 便利でも、パソコンを使いません。
+* 日曜日でも、働きます。
 
 ### **もし**
 
+When `もし` is used in conjunction with `たら` it increases the conditionality or the speculation level. It's similar to `What if...`.
+
+* もし一億円があったら、いろいろな国を旅行したい照す。
+
 ### **Subject of a subordinate clause**
+
+The subject for the `たら` form is also marked by `が`, just like with `てから`, `とき`, `と`, and `まえに`.
+
+* 友達**が**来る前に部屋を掃除します。
+* 妻**が**病気の時、会社を休みます。
+* 友達が約束の時間に来なかったら、どうしますか。
