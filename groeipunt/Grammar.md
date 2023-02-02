@@ -1020,7 +1020,7 @@ The volitional form is used to express `let's` or `shall`. It has no past or neg
 
 ### **Nは Sみたい・のよう**
 
-Used to say that something `N` is like something else `S`. The part `S` before `みたい` should be informal. If `S` is a `な`-adjective, it loses the `な`.
+Used to say that something `N` is like something else `S`. The part `S` before `みたい` should be informal. If `S` is a `な`-adjective, it loses the `な`. The difference with `～そうです` is that the latter is based on your own thoughts and senses (e.g. something looks good) and the other is based on your observation (e.g. someones eating eagerly, so it must be tasty).
 
 * この問題は学生にはちょっと難しいみたいです。
 * ここは昔学校だったみたいです。
@@ -1034,11 +1034,19 @@ Sometimes `まるで` is used to strengthen `みたい`.
 
 * 天使みたいな顔です.
 
-In more formal situations, `のよう` is often used to fulfill the same use case. These also need an informal part before it, and it can also be used as a `な`-adjective. The biggest difference is that `な`-adjectives before the `よう` keep their `な`.
+You can also use it as an adverb with the particle `に`.
+
+* 山下さんは学生みたいに勉強します。
+
+In more formal situations, `のよう` is often used to fulfill the same use case. These also need an informal part before it, and it can also be used as a `な`-adjective.
 
 * この酒は水のようです。
 * トムさんはアメリカへ行くようです。
 * 天使のような顔です。
+
+The biggest difference is that `な`-adjectives before the `よう` keep their `な`.
+
+* かれは元気なようなおじいさんです。
 
 ### **V ように S**
 
