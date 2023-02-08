@@ -1020,7 +1020,7 @@ The volitional form is used to express `let's` or `shall`. It has no past or neg
 
 ### **Nは Sみたい・のよう**
 
-Used to say that something `N` is like something else `S`. The part `S` before `みたい` should be informal. If `S` is a `な`-adjective, it loses the `な`. The difference with `～そうです` is that the latter is based on your own thoughts and senses (e.g. something looks good) and the other is based on your observation (e.g. someones eating eagerly, so it must be tasty).
+Used to say that something `N` is like something else `S`. The part `S` before `みたい` should be informal. If `S` is a `な`-adjective, it loses the `な`. The difference with `～そうです` is that the latter is based on your own thoughts and senses (e.g. something looks good) and the other is based on your observation (e.g. someone's eating eagerly, so it must be tasty).
 
 * この問題は学生にはちょっと難しいみたいです。
 * ここは昔学校だったみたいです。
