@@ -912,8 +912,8 @@ Indicates that something must be done. As seen in みんなの日本語. Use the
 
 ### **Adjectives & verbs to nouns**
 
-> `な-A + さ`  
-> `い-A`~~`な`~~` + さ`  
+> `な-A`~~`な`~~` + さ`  
+> `い-A + さ`  
 > `V`~~`ます`~~
 
 Both adjectives and verbs can be turned into nouns. For adjectives we just have to add `さ`. For verbs we just remove the `ます`.
