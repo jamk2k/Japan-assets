@@ -1312,7 +1312,7 @@ Another conditional form like the `たら`-form. This form is used more often fo
 
 ## Chapter 3
 
-### ～すぎる
+### **～すぎる**
 
 > `V すぎます`
 
@@ -1322,15 +1322,15 @@ Used to mention that something is excessive. The verb `V` uses the `ます` stem
 * 早く起きすぎました。
 * この本は高すぎます。
 
-### ～ので
+### **～ので**
 
 See [Year 4](#formal-because).
 
-### ようにする
+### **ようにする**
 
-See [Year 5](#v-ようにする)
+See [Year 5](#v-ようにする).
 
-### ～とき
+### **～とき**
 
 #### **(V-dict・Vない・adj・Nの)とき、～ main clause**
 
@@ -1349,12 +1349,28 @@ When the verb `V` is in the dictionary form, the main clause happened before the
 * パリスへ行った時、カバンを買いました。
   * I bought a bag when I went to Paris. (bought in Paris)
 
-### ～みたい
+### **～みたい**
 
-See [Year 5](#nは-sみたいのよう)
+See [Year 5](#nは-sみたいのよう).
 
 ## Chapter 6
 
-### ～そうです
+### **～そうです**
 
-See [Year 5](#v-そうですな-n)
+See [Year 5](#v-そうですな-n).
+
+### **～てあげる**
+
+See [Year 5](#nはが-vてあげます).
+
+### **～てもらう**
+
+See [Year 5](#nに-vてもらいます).
+
+### **～てくれる**
+
+See [Year 5](#nはが-vてくれます).
+
+### **Volitional form**
+
+See [Year 5](#volitional-form).
