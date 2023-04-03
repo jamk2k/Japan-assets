@@ -1309,3 +1309,52 @@ Another conditional form like the `たら`-form. This form is used more often fo
 * 明日、雨が降らなければ、花見に行きませんか。
 * 毎週土曜日の午後、天気が良ければ公園でコンサートがある。
 * できれば、これもやって下さい。
+
+## Chapter 3
+
+### ～すぎる
+
+> `V すぎます`
+
+Used to mention that something is excessive. The verb `V` uses the `ます` stem.
+
+* 昨日、ビールを飲みすぎました。
+* 早く起きすぎました。
+* この本は高すぎます。
+
+### ～ので
+
+See [Year 4](#formal-because).
+
+### ようにする
+
+See [Year 5](#v-ようにする)
+
+### ～とき
+
+#### **(V-dict・Vない・adj・Nの)とき、～ main clause**
+
+Uses the same structure as when modifying a noun. Always uses the informal form. The tense of the sentence and subclause are independent.
+
+* 図書館で本を借りるとき、カードが要ります。
+* 使い方がわからないとき、私に聞いてください。
+* 子供の時、よく川で泳ぎました。
+
+#### **(V-dict・Vた) とき、～ main clause**
+
+When the verb `V` is in the dictionary form, the main clause happened before the subclause or the main clause is a continuous action. If the verb `V` is in the `た` form, the main clause happened after the subclause.
+
+* パリスへ行くとき、カバンを買いました。
+  * I bought a bag when going to Paris. (bought before arriving in Paris)
+* パリスへ行った時、カバンを買いました。
+  * I bought a bag when I went to Paris. (bought in Paris)
+
+### ～みたい
+
+See [Year 5](#nは-sみたいのよう)
+
+## Chapter 6
+
+### ～そうです
+
+See [Year 5](#v-そうですな-n)
