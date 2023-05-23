@@ -111,6 +111,25 @@
     - [**たら-form**](#たら-form)
     - [**ても**](#ても)
     - [**ば-conditional form**](#ば-conditional-form)
+  - [Chapter 3](#chapter-3-1)
+    - [**～すぎる**](#すぎる)
+    - [**～ので**](#ので)
+    - [**ようにする**](#ようにする)
+    - [**～とき**](#とき)
+      - [**(V-dict・Vない・adj・Nの)とき、～ main clause**](#v-dictvないadjnのとき-main-clause)
+      - [**(V-dict・Vた) とき、～ main clause**](#v-dictvた-とき-main-clause)
+    - [**～みたい**](#みたい)
+  - [Chapter 6](#chapter-6-1)
+    - [**～そうです**](#そうです)
+    - [**～てあげる**](#てあげる)
+    - [**～てもらう**](#てもらう)
+    - [**～てくれる**](#てくれる)
+    - [**Volitional form**](#volitional-form-1)
+    - [**～なくてもいい**](#なくてもいい)
+  - [Chapter 7](#chapter-7-1)
+    - [**のに**](#のに)
+    - [**てほしい**](#てほしい)
+    - [**かもしれない**](#かもしれない)
 
 # Year III
 
@@ -1374,3 +1393,37 @@ See [Year 5](#nはが-vてくれます).
 ### **Volitional form**
 
 See [Year 5](#volitional-form).
+
+### **～なくてもいい**
+
+Used to say `you don't have to ~`.
+
+* 新しくなくてもいいです。
+* この難しい感じが覚えなくてもいいです。
+* 靴を脱がなくてもいいです。
+
+To say that you didn't have to do something, conjugate the `いい`.
+
+* 靴を脱がなくてもよかったです。
+
+To say you are not allowed to do something use `～てはいけないです`.
+
+* 靴を脱いではいけないです。
+
+To say you must do something use `～なくてはいけないです`.
+
+* 靴を脱がなくてはいけないです。
+
+## Chapter 7
+
+### **のに**
+
+Used to say `even though` or `nevertheless`. It's used the same way as [ので](#formal-because). The `だ` before substantives turns into `な`.
+
+* よく勉強したのに、できませんでした。
+* 父は九十歳なのに、まだ働いています。
+* たくさん食べたのに、まだお腹がすいています。
+
+### **てほしい**
+
+### **かもしれない**

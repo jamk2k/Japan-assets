@@ -32,3 +32,7 @@ There is no real difference between `ことができます` and the potential fo
 # Looks like
 
 The difference between `みたい` and `～そうです` is that the latter is based on your own thoughts and senses (e.g. something looks good) (= `it looks like`) and the former is based on your observation (e.g. someones eating eagerly, so it must be tasty) (= `it seems like`).
+
+# Totally
+
+The difference between `ぜったい` and `きっと` or `かならず` is that the former is mostly used in a **negative** context, while the others are used in a **positive** context.

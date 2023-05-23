@@ -2,6 +2,7 @@
     "recommendations": [
       "yzane.markdown-pdf",
       "davidanson.vscode-markdownlint",
-      "streetsidesoftware.code-spell-checker"
+      "streetsidesoftware.code-spell-checker",
+      "yzhang.markdown-all-in-one"
     ]
 }
