@@ -130,6 +130,7 @@
     - [**のに**](#のに)
     - [**てほしい**](#てほしい)
     - [**かもしれない**](#かもしれない)
+    - [**Passive form**](#passive-form)
 
 # Year III
 
@@ -1445,3 +1446,27 @@ Used to say `maybe`. It's added to the end of sentence. The `だ` for substantiv
 It can be shortened to `かも` when speaking.
 
 * 来年留学するかも。
+
+### **Passive form**
+
+The passive form is used to express that something was done. It's similar in conjugation to the potential form. It only differs for the 五段 verbs.
+
+> | 動詞型     | ルール          | 動詞   | たとえば   |
+> | ---------- | --------------- | ------ | ---------- |
+> | 五段       | ~~う~~ + あれる | 泳ぐ   | 泳がれる   |
+> |            |                 | いう   | いわれる   |
+> |            |                 | かく   | かかれる   |
+> |            |                 | とる   | とられる   |
+> | 一段       | ~~る~~ + られる | 食べる | 食べられる |
+> | 不規則動詞 |                 | する   | しれる     |
+> |            |                 | 来る   | こられる   |
+
+* 蜂に刺された。
+* 突然雨に降られた。
+* 泥棒に携帯をとられた
+
+If the doer is not a person, `に` marks the doer. Otherwise `から` or `によって` can be used.
+
+* 友達が車にはねられた。
+* ピカソから笑われた。
+* この落書きはピカソによって描かれた。
