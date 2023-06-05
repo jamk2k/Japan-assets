@@ -9,3 +9,4 @@
 # だ
 
 * When using `そうです`, `な` turns into `だ`. `田中さんの話でわ、きれいだそうです。`
+* When using `かもしれませｎ`, the `だ` is dropped. `リンさんは元気かもしれない。`

@@ -1426,4 +1426,22 @@ Used to say `even though` or `nevertheless`. It's used the same way as [ので](
 
 ### **てほしい**
 
+> S に V-てほしいです。
+
+Used to say you want someone `S` to do something `V` for you. It is more forceful than `てもらいます。`. This can only be used with verbs.
+
+* 子供に私と井伊署に住んでほしいです。
+* 図書館お腹がうるさいです。静かにしてほしいです。
+* 先生には、もっとゆっくり話してほしいです。
+
 ### **かもしれない**
+
+Used to say `maybe`. It's added to the end of sentence. The `だ` for substantives or な-adjectives is dropped.
+
+* 田中さんも飲み会に行くかもしれません。
+* 日本では、昨日、梅だったかもしれません。
+* リンさんは元気かもしれない。
+
+It can be shortened to `かも` when speaking.
+
+* 来年留学するかも。
