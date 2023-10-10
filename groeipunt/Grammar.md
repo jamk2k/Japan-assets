@@ -131,6 +131,12 @@
     - [**てほしい**](#てほしい)
     - [**かもしれない**](#かもしれない)
     - [**Passive form**](#passive-form)
+- [Year VII](#year-vii)
+  - [Chapter 7](#chapter-7-2)
+    - [**Causative form**](#causative-form)
+    - [**Causative passive form**](#causative-passive-form)
+    - [**ところ**](#ところ)
+    - [**でしょうか・かな・かしら・っけ**](#でしょうかかなかしらっけ)
 
 # Year III
 
@@ -1470,3 +1476,67 @@ If the doer is not a person, `に` marks the doer. Otherwise `から` or `によ
 * 友達が車にはねられた。
 * ピカソから笑われた。
 * この落書きはピカソによって描かれた。
+
+# Year VII
+
+## Chapter 7
+
+### **Causative form**
+
+### **Causative passive form**
+
+### **ところ**
+
+> V ところです。
+
+Used with a verb `V` in informal form to indicate time.
+
+Something just happened. You're in the `place in time` after the event happened.
+
+- トムさんは食べたところです。
+	- Tom just ate.
+
+Something is or was `about to happen`. You're in the `place in time` when the event is about to happen.
+
+- トムさんは食べるところです。
+	- Tom is about to eat.
+- トムさんは食べるところでした。
+	- Tom was about to eat.
+
+Something is or was happening. You're in the `place in time` that the event is happening.
+
+- トムさんは食べているところです。
+	- Tom is eating right now.
+- トムさんは食べていったところです。
+	- Tom was just eating.
+
+### **でしょうか・かな・かしら・っけ**
+
+> V (でしょうか・かな・かしら・っけ)
+
+All are used to express `I wonder if V` where `V` is informal. The `だ` after substantives and な-adjectives is dropped for all but `っけ`.
+
+`でしょうか` is formal.
+
+- 松本さんは来るでしょうか。
+
+`かな` is informal. It's mostly used by men but nowadays more and more women use it as well.
+
+- あの先生の授業は面白いかな。
+
+`かしら` is also informal and mostly used by women.
+
+- あの人は誰かしら。
+
+`っけ` is mostly used when you `don't remember something well`. It's most often used with the past form. The `だ` after **substantives** is not dropped in this form.
+
+- 去年の夏は暑かったっけ。
+- 試験は来週だったっけ。
+- 試験はいつだっけ。
+
+> V (でしょうか・かな・かしら・っけ)
+
+Where `V` is **formal** can be used in _very_ formal situations.
+
+- 試験はいつでしたっけ。
+- そこは静かですかしら。

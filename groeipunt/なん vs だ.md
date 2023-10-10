@@ -10,3 +10,9 @@
 
 * When using `そうです`, `な` turns into `だ`. `田中さんの話でわ、きれいだそうです。`
 * When using `かもしれませｎ`, the `だ` is dropped. `リンさんは元気かもしれない。`
+
+# でしょうか・かな・かしら・っけ
+
+* When using `でしょうか・かな・かしら` the `だ` following substantives and な-adjectives is dropped. `あの人は誰かしら。`
+* When using `っけ` the `だ` following substantives is **not** dropped. `試験はいつだっけ。`
+* When using `っけ` the `だ` following な-adjectives **is** dropped. `あの花はきれいっけ`
