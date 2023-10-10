@@ -1249,7 +1249,7 @@ Note that in speech, the `ら` of the `られる` is sometimes dropped.
 
 * ワニは鶏が食べれる。
 
-**Not all verbs have a potential verbs:**
+**Not all verbs have a potential form:**
 
 * Verbs that already have `can` in their meaning
   * 聞こえる・見える・できる
@@ -1292,10 +1292,10 @@ You can also use `もし` for unrealistic conditions or to say `what if`.
 
 ### **ても**
 
-You can use the `ます`-form + `ても` to say `even if`.
+You can use the `て`-form + `も` to say `even if`.
 
 * 雨が降っても、ピクニックに行きます。
-* 新し無くても買います。
+* 新しなくても買います。
 * テストを受けなくても大丈夫です。
 
 This is the same form as `てもいい` which just means `even if I do V, is it good?` which roughly translates to `may I do V?`.
