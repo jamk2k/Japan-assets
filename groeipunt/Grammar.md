@@ -1070,7 +1070,7 @@ In more formal situations, `のよう` is often used to fulfill the same use cas
 * トムさんはアメリカへ行くようです。
 * 天使のような顔です。
 
-The biggest difference is that `な`-adjectives before the `よう` keep their `な`.
+The biggest difference is that `な`-adjectives before the `よう` keep their `な` (and lose the `の`).
 
 * かれは元気なようなおじいさんです。
 
