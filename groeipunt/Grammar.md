@@ -137,6 +137,11 @@
     - [**Causative passive form**](#causative-passive-form)
     - [**ところ**](#ところ)
     - [**でしょうか・かな・かしら・っけ**](#でしょうかかなかしらっけ)
+    - [**恋 vs 愛**](#恋-vs-愛)
+    - [**人気がある**](#人気がある)
+    - [**興味を持つ**](#興味を持つ)
+    - [**ことにする**](#ことにする)
+    - [**ことになる**](#ことになる)
 
 # Year III
 
@@ -1483,7 +1488,51 @@ If the doer is not a person, `に` marks the doer. Otherwise `から` or `によ
 
 ### **Causative form**
 
+The causative form is used when `someone is forced to do an action` or when he's `allowed to an action`. The subject causes someone else to carry out the action. In dialect and 関西弁 the `さす`-suffix is often used instead of `させる`.
+
+| 動詞型     | ルール          | 動詞   | たとえば   |
+| ---------- | --------------- | ------ | ---------- |
+| 五段       | ~~う~~ + あせる | 泳ぐ   | 泳がせる   |
+|            |                 | いう   | いわせる   |
+|            |                 | かく   | かかせる   |
+|            |                 | とる   | とらせる   |
+| 一段       | ~~る~~ + させる | 食べる | 食べさせる |
+| 不規則動詞 |                 | する   | させる     |
+|            |                 | 来る   | こさせる   |
+
+* お母さんは弟を学校に行かせた。
+* コウイチはマミにベーコンを好きなだけ食べさせた。
+* お母さんはお父さんに虫を食べさせる。
+
+When you want to emphasize the permissive nature, you can use in in combo with the giving and receiving verbs.
+
+* 両親は私を大学に行かせてくれた。
+* 大学に行かせてくれませんか。
+
 ### **Causative passive form**
+
+The combination of the causative and passive form. The action of `making someone do something` was `done to that person`. First conjugate to the causative form, then to the passive.
+
+| 動詞型     | ルール              | 動詞   | たとえば       |
+| ---------- | ------------------- | ------ | -------------- |
+| 五段       | ~~う~~ + あせられる | 泳ぐ   | 泳がせられる   |
+|            |                     | いう   | いわせられる   |
+|            |                     | かく   | かかせられる   |
+|            |                     | とる   | とらせられる   |
+| 一段       | ~~る~~ + させられる | 食べる | 食べさせられる |
+| 不規則動詞 |                     | する   | させられる     |
+|            |                     | 来る   | こさせられる   |
+
+* 朝ご飯は食べたくなかったのに、食べさせられた。
+  * Even though I didn't want to eat breakfast, I was made to eat it.
+* あいつに二時間も待たせられた。
+  * I was made to wait two hours by that guy.
+* 親に毎日宿題をさせられる。
+  * I am made to do homework everyday by my parents.
+
+It can also be shortened by first using the `さす`-suffix and then applying the passive.
+
+* あいつに二時間も待たされた。
 
 ### **ところ**
 
@@ -1540,3 +1589,39 @@ Where `V` is **formal** can be used in _very_ formal situations.
 
 - 試験はいつでしたっけ。
 - そこは静かですかしら。
+
+### **恋 vs 愛**
+
+`恋` is only used for couples whereas `愛` is also used for family and such.
+
+### **人気がある**
+
+This is always used with particle `に`.
+
+- 女性にも人気があり、年を取っても長く続けられる。
+
+### **興味を持つ**
+
+This means exactly the same as `興味がある`.
+
+- 一番興味を持ったのはどれですか。
+
+### **ことにする**
+
+> V ことにする
+
+This is the same as `決める`. You decided to do something `V`.
+
+- 来年日本へ行くことにしました。
+- 夏休みに国へ帰ることにしました。
+- たばこは体によくないので、もうすわないことにしました。
+
+### **ことになる**
+
+> V ことになる
+
+This is the same as`決まる`. Something `V` was decided outside of your control. `ことになっている` thus concerns future plans that were already decided. `ことになった` concerns decisions that were already made.
+
+- 日本で英語を教えることになっています。
+- 日本の会社で仕事をすることになりました。
+- 来月引っ越すことになりました。
