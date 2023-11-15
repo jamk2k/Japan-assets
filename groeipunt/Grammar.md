@@ -142,6 +142,7 @@
     - [**興味を持つ**](#興味を持つ)
     - [**ことにする**](#ことにする)
     - [**ことになる**](#ことになる)
+  - [**V させていただく**](#v-させていただく)
 
 # Year III
 
@@ -1488,7 +1489,9 @@ If the doer is not a person, `に` marks the doer. Otherwise `から` or `によ
 
 ### **Causative form**
 
-The causative form is used when `someone is forced to do an action` or when he's `allowed to an action`. The subject causes someone else to carry out the action. In dialect and 関西弁 the `さす`-suffix is often used instead of `させる`.
+> N1は N2に V
+
+The causative form is used when `someone N2 is forced to do an action V by N1` or when `someone N2 is allowed to do an action V by N1`. The subject causes someone else to carry out the action. In dialect and 関西弁 the `さす`-suffix is often used instead of `させる`.
 
 | 動詞型     | ルール          | 動詞   | たとえば   |
 | ---------- | --------------- | ------ | ---------- |
@@ -1508,6 +1511,21 @@ When you want to emphasize the permissive nature, you can use in in combo with t
 
 * 両親は私を大学に行かせてくれた。
 * 大学に行かせてくれませんか。
+
+It is not always forceful
+
+- みんなに笑わせます。
+  - He made everyone laugh.
+
+It is often used with `てください` to mean `please let me do this`.
+
+- 手伝わせてください。
+- 私もこれをやらせてください。
+- あの新聞記事を読めさせてください。
+
+When it's used for a reflex, `を` is used.
+
+- 私はその子供を泣かせしてしまいました。
 
 ### **Causative passive form**
 
@@ -1625,3 +1643,7 @@ This is the same as`決まる`. Something `V` was decided outside of your contro
 - 日本で英語を教えることになっています。
 - 日本の会社で仕事をすることになりました。
 - 来月引っ越すことになりました。
+
+## **V させていただく**
+
+This is just the `て`-form of the causative form followed by `いただく`.
