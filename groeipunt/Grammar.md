@@ -1512,11 +1512,6 @@ When you want to emphasize the permissive nature, you can use in in combo with t
 * 両親は私を大学に行かせてくれた。
 * 大学に行かせてくれませんか。
 
-It is not always forceful
-
-- みんなに笑わせます。
-  - He made everyone laugh.
-
 It is often used with `てください` to mean `please let me do this`.
 
 - 手伝わせてください。
@@ -1526,6 +1521,15 @@ It is often used with `てください` to mean `please let me do this`.
 When it's used for a reflex, `を` is used.
 
 - 私はその子供を泣かせしてしまいました。
+
+When `を` hasn't been used in the action yet, we can also use it.
+
+- 先生は私をトイレに行かせました。
+
+It is not always forceful
+
+- みんなを笑わせました。
+  - He made everyone laugh.
 
 ### **Causative passive form**
 
