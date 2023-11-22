@@ -142,7 +142,8 @@
     - [**興味を持つ**](#興味を持つ)
     - [**ことにする**](#ことにする)
     - [**ことになる**](#ことになる)
-  - [**V させていただく**](#v-させていただく)
+    - [**V させていただく・もらいる**](#v-させていただくもらいる)
+    - [**Polite てもいいですか**](#polite-てもいいですか)
 
 # Year III
 
@@ -1431,7 +1432,7 @@ To say you must do something use `～なくてはいけないです`.
 
 ### **のに**
 
-Used to say `even though` or `nevertheless`. It's used the same way as [ので](#formal-because). The `だ` before substantives turns into `な`.
+Used to say `even though` or  -`nevertheless`. It's used the same way as [ので](#formal-because). The `だ` before substantives turns into `な`.
 
 * よく勉強したのに、できませんでした。
 * 父は九十歳なのに、まだ働いています。
@@ -1648,6 +1649,25 @@ This is the same as`決まる`. Something `V` was decided outside of your contro
 - 日本の会社で仕事をすることになりました。
 - 来月引っ越すことになりました。
 
-## **V させていただく**
+### **V させていただく・もらいる**
 
-This is just the `て`-form of the causative form followed by `いただく`.
+This is just the `て`-form of the causative form followed by `いただく`. It is used instead of the causative if the actor is an inferior person.
+
+- 子どもが親に部屋を掃除させていただきました。
+
+The regular `てもらう` can also be used for this use case.
+
+- 子どもが親に部屋を掃除してもらいました。
+
+We can use the `causative + てもらう` to express `to do something with someone's permission`.
+
+- 私は先生にこの本を読ませてもらいました。
+
+### **Polite てもいいですか**
+
+> て（ください・くださいませんか・いただけないでしょうか）
+
+Is a politer form of `てもいいですか`.
+
+- この機械を使わせてください。
+- 英語で言わせていただけないでしょうか。
